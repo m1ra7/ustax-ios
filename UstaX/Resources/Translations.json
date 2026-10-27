@@ -1,0 +1,2514 @@
+{
+  "E-posta": {
+    "en": "Email",
+    "de": "E-Mail"
+  },
+  "Parola": {
+    "en": "Password",
+    "de": "Passwort"
+  },
+  "Giriş yapılıyor…": {
+    "en": "Signing in…",
+    "de": "Anmeldung läuft…"
+  },
+  "E-posta veya parola hatalı.": {
+    "en": "Incorrect email or password.",
+    "de": "E-Mail-Adresse oder Passwort ist falsch."
+  },
+  "Genel bakış": {
+    "en": "Overview",
+    "de": "Übersicht"
+  },
+  "Servis kayıtları": {
+    "en": "Service orders",
+    "de": "Serviceaufträge"
+  },
+  "Müşteriler": {
+    "en": "Customers",
+    "de": "Kunden"
+  },
+  "Cihazlar": {
+    "en": "Devices",
+    "de": "Geräte"
+  },
+  "Fiyat teklifleri": {
+    "en": "Estimates",
+    "de": "Kostenvoranschläge"
+  },
+  "Ekip ve yetkiler": {
+    "en": "Team & permissions",
+    "de": "Team & Berechtigungen"
+  },
+  "Ayarlar": {
+    "en": "Settings",
+    "de": "Einstellungen"
+  },
+  "ÇALIŞMA ALANI": {
+    "en": "WORKSPACE",
+    "de": "ARBEITSBEREICH"
+  },
+  "YÖNETİM": {
+    "en": "ADMINISTRATION",
+    "de": "VERWALTUNG"
+  },
+  "Çalışma alanı": {
+    "en": "Workspace",
+    "de": "Arbeitsbereich"
+  },
+  "Servis çalışma alanı": {
+    "en": "Service workspace",
+    "de": "Service-Arbeitsbereich"
+  },
+  "Teknik servis çalışma alanı": {
+    "en": "Repair service workspace",
+    "de": "Arbeitsbereich für den Reparaturservice"
+  },
+  "Teknik servis yönetimi": {
+    "en": "Repair service management",
+    "de": "Reparaturservice-Verwaltung"
+  },
+  "Örnek çalışma alanı": {
+    "en": "Demo workspace",
+    "de": "Demo-Arbeitsbereich"
+  },
+  "Tüm süreçler tek bir yerde": {
+    "en": "Every workflow in one place",
+    "de": "Alle Abläufe an einem Ort"
+  },
+  "Tasarımı ve iş akışını keşfedin": {
+    "en": "Explore the design and workflow",
+    "de": "Design und Arbeitsabläufe entdecken"
+  },
+  "Örnek yönetici": {
+    "en": "Demo administrator",
+    "de": "Demo-Administrator"
+  },
+  "Örnek teknisyen": {
+    "en": "Demo technician",
+    "de": "Demo-Techniker"
+  },
+  "Yönetici": {
+    "en": "Administrator",
+    "de": "Administrator"
+  },
+  "Teknisyen": {
+    "en": "Technician",
+    "de": "Techniker"
+  },
+  "Aktif": {
+    "en": "Active",
+    "de": "Aktiv"
+  },
+  "Pasif": {
+    "en": "Inactive",
+    "de": "Inaktiv"
+  },
+  "Hızlı arama...": {
+    "en": "Quick search...",
+    "de": "Schnellsuche …"
+  },
+  "Servis kaydı ara": {
+    "en": "Search service orders",
+    "de": "Serviceaufträge suchen"
+  },
+  "Menüyü aç": {
+    "en": "Open menu",
+    "de": "Menü öffnen"
+  },
+  "Menüyü kapat": {
+    "en": "Close menu",
+    "de": "Menü schließen"
+  },
+  "Onay bekleyen kayıtlar": {
+    "en": "Orders awaiting approval",
+    "de": "Aufträge mit ausstehender Freigabe"
+  },
+  "ÇALIŞMA ALANINIZA HOŞ GELDİNİZ": {
+    "en": "WELCOME TO YOUR WORKSPACE",
+    "de": "WILLKOMMEN IN IHREM ARBEITSBEREICH"
+  },
+  "Servisiniz. Tek bir bakışta.": {
+    "en": "Your service. At a glance.",
+    "de": "Ihr Service. Auf einen Blick."
+  },
+  "Ekibinizin iş akışına, cihazlara ve sonraki adımlara odaklanın.": {
+    "en": "Focus on your team's workflow, devices and next steps.",
+    "de": "Behalten Sie die Abläufe Ihres Teams, die Geräte und die nächsten Schritte im Blick."
+  },
+  "Kabulden teslime, her aşama kontrolünüzde.": {
+    "en": "Stay in control, from intake to handover.",
+    "de": "Von der Annahme bis zur Übergabe behalten Sie den Überblick."
+  },
+  "Çalışma alanınızı tek bir yerden yönetin.": {
+    "en": "Manage your workspace in one place.",
+    "de": "Verwalten Sie Ihren Arbeitsbereich zentral."
+  },
+  "Yeni servis kaydı": {
+    "en": "New service order",
+    "de": "Neuer Serviceauftrag"
+  },
+  "ÖRNEK ÇALIŞMA ALANI": {
+    "en": "DEMO WORKSPACE",
+    "de": "DEMO-ARBEITSBEREICH"
+  },
+  "Tasarımı ve iş akışını keşfedin. Gerçek kayıtlar için bağlantıları tamamlayın.": {
+    "en": "Explore the design and workflow. Set up the integrations to create real orders.",
+    "de": "Entdecken Sie Design und Arbeitsabläufe. Richten Sie die Anbindungen ein, um echte Aufträge anzulegen."
+  },
+  "Kurulum bilgileri": {
+    "en": "Setup details",
+    "de": "Einrichtungshinweise"
+  },
+  "Giriş yap": {
+    "en": "Sign in",
+    "de": "Anmelden"
+  },
+  "Yeniden dene": {
+    "en": "Try again",
+    "de": "Erneut versuchen"
+  },
+  "Tekrar dene": {
+    "en": "Try again",
+    "de": "Erneut versuchen"
+  },
+  "Çalışma alanınız hazırlanıyor...": {
+    "en": "Preparing your workspace...",
+    "de": "Ihr Arbeitsbereich wird vorbereitet …"
+  },
+  "Aktif servisler": {
+    "en": "Active service orders",
+    "de": "Aktive Serviceaufträge"
+  },
+  "İşlem devam ediyor": {
+    "en": "Work in progress",
+    "de": "In Bearbeitung"
+  },
+  "İncelenen cihazlar": {
+    "en": "Devices under inspection",
+    "de": "Geräte in Prüfung"
+  },
+  "Teknik inceleme aşamasında": {
+    "en": "Under technical inspection",
+    "de": "In technischer Prüfung"
+  },
+  "Onay bekleyenler": {
+    "en": "Awaiting approval",
+    "de": "Freigabe ausstehend"
+  },
+  "Müşteri yanıtı bekleniyor": {
+    "en": "Awaiting customer response",
+    "de": "Kundenrückmeldung ausstehend"
+  },
+  "Teslime hazır": {
+    "en": "Ready for collection",
+    "de": "Abholbereit"
+  },
+  "Müşterisini bekliyor": {
+    "en": "Awaiting collection",
+    "de": "Warten auf Abholung"
+  },
+  "Serviste bugün": {
+    "en": "Service overview",
+    "de": "Service im Überblick"
+  },
+  "İş akışınızın anlık görünümü": {
+    "en": "Your workflow at a glance",
+    "de": "Ihre Arbeitsabläufe auf einen Blick"
+  },
+  "Örnek veriler": {
+    "en": "Demo data",
+    "de": "Beispieldaten"
+  },
+  "Canlı görünüm": {
+    "en": "Live overview",
+    "de": "Live-Übersicht"
+  },
+  "aktif cihaz": {
+    "en": "active devices",
+    "de": "aktive Geräte"
+  },
+  "İnceleme": {
+    "en": "Inspection",
+    "de": "Prüfung"
+  },
+  "Onay bekliyor": {
+    "en": "Awaiting approval",
+    "de": "Freigabe ausstehend"
+  },
+  "Tamirde": {
+    "en": "Under repair",
+    "de": "In Reparatur"
+  },
+  "Parça bekliyor": {
+    "en": "Awaiting parts",
+    "de": "Warten auf Ersatzteile"
+  },
+  "BİR SONRAKİ ADIM": {
+    "en": "NEXT STEP",
+    "de": "NÄCHSTER SCHRITT"
+  },
+  "{count} cihaz için müşteri onayı bekleniyor.": {
+    "en": "{count} devices are awaiting customer approval.",
+    "de": "Für {count} Geräte steht die Kundenfreigabe aus."
+  },
+  "{count} cihaz için müşteri onayı bekleniyor._one": {
+    "en": "{count} device is awaiting customer approval.",
+    "de": "Für {count} Gerät steht die Kundenfreigabe aus."
+  },
+  "Teklifleri incele": {
+    "en": "Review estimates",
+    "de": "Kostenvoranschläge ansehen"
+  },
+  "Son servis kayıtları": {
+    "en": "Recent service orders",
+    "de": "Neueste Serviceaufträge"
+  },
+  "Tüm servis kayıtları": {
+    "en": "All service orders",
+    "de": "Alle Serviceaufträge"
+  },
+  "Tüm kayıtlar": {
+    "en": "View all orders",
+    "de": "Alle Aufträge ansehen"
+  },
+  "Servis, müşteri, telefon veya teknisyen ara": {
+    "en": "Search by order, customer, phone or technician",
+    "de": "Nach Auftrag, Kunde, Telefonnummer oder Techniker suchen"
+  },
+  "Servis no, müşteri, telefon veya teknisyen ara...": {
+    "en": "Search orders, customers, phone numbers or technicians...",
+    "de": "Auftrag, Kunde, Telefon oder Techniker suchen …"
+  },
+  "Aramayı temizle": {
+    "en": "Clear search",
+    "de": "Suche löschen"
+  },
+  "Kayıtları sırala": {
+    "en": "Sort orders",
+    "de": "Aufträge sortieren"
+  },
+  "En yeni kayıtlar": {
+    "en": "Newest first",
+    "de": "Neueste zuerst"
+  },
+  "En eski kayıtlar": {
+    "en": "Oldest first",
+    "de": "Älteste zuerst"
+  },
+  "Müşteri adı": {
+    "en": "Customer name",
+    "de": "Kundenname"
+  },
+  "Tümü": {
+    "en": "All",
+    "de": "Alle"
+  },
+  "Filtrele": {
+    "en": "Filters",
+    "de": "Filtern"
+  },
+  "Tablo görünümü": {
+    "en": "Table view",
+    "de": "Tabellenansicht"
+  },
+  "Kart görünümü": {
+    "en": "Card view",
+    "de": "Kartenansicht"
+  },
+  "Cihaz türü": {
+    "en": "Device type",
+    "de": "Gerätetyp"
+  },
+  "Tüm cihazlar": {
+    "en": "All devices",
+    "de": "Alle Geräte"
+  },
+  "Telefon": {
+    "en": "Phone",
+    "de": "Smartphone"
+  },
+  "Tablet": {
+    "en": "Tablet",
+    "de": "Tablet"
+  },
+  "Bilgisayar": {
+    "en": "Computer",
+    "de": "Computer"
+  },
+  "Durum": {
+    "en": "Status",
+    "de": "Status"
+  },
+  "Sıralama": {
+    "en": "Sort by",
+    "de": "Sortierung"
+  },
+  "Temizle": {
+    "en": "Clear filters",
+    "de": "Filter zurücksetzen"
+  },
+  "Burada henüz bir kayıt yok.": {
+    "en": "No orders here yet.",
+    "de": "Hier gibt es noch keine Aufträge."
+  },
+  "Filtreleri değiştirin veya ilk servis kaydınızı oluşturun.": {
+    "en": "Adjust your filters or create your first service order.",
+    "de": "Passen Sie die Filter an oder legen Sie Ihren ersten Serviceauftrag an."
+  },
+  "Yeni kayıt oluştur": {
+    "en": "Create an order",
+    "de": "Auftrag anlegen"
+  },
+  "Servis no": {
+    "en": "Order no.",
+    "de": "Auftragsnr."
+  },
+  "Cihaz": {
+    "en": "Device",
+    "de": "Gerät"
+  },
+  "Müşteri": {
+    "en": "Customer",
+    "de": "Kunde"
+  },
+  "Kayıt tarihi": {
+    "en": "Date created",
+    "de": "Erstellt am"
+  },
+  "{number} detayını aç": {
+    "en": "Open details for {number}",
+    "de": "Details zu {number} öffnen"
+  },
+  "{shown} kayıttan {total} kayıt gösteriliyor": {
+    "en": "Showing {shown} of {total} orders",
+    "de": "{shown} von {total} Aufträgen werden angezeigt"
+  },
+  "Yetki kontrollü çalışma alanı": {
+    "en": "Access-controlled workspace",
+    "de": "Zugriffsgeschützter Arbeitsbereich"
+  },
+  "Her cihazın hikâyesi, güvenle kayıt altında.": {
+    "en": "Every device's service history, securely recorded.",
+    "de": "Die Servicehistorie jedes Geräts, sicher dokumentiert."
+  },
+  "Özenle tasarlandı. İşinizi kolaylaştırmak için.": {
+    "en": "Thoughtfully designed to make your work easier.",
+    "de": "Mit Sorgfalt entwickelt, um Ihre Arbeit zu erleichtern."
+  },
+  "Daha akıllı servis yönetimi.": {
+    "en": "Smarter service management.",
+    "de": "Intelligentere Serviceverwaltung."
+  },
+  "Müşteri rehberi": {
+    "en": "Customer directory",
+    "de": "Kundenverzeichnis"
+  },
+  "{count} müşteri": {
+    "en": "{count} customers",
+    "de": "{count} Kunden"
+  },
+  "{count} müşteri_one": {
+    "en": "{count} customer",
+    "de": "{count} Kunde"
+  },
+  "{count} servis kaydı": {
+    "en": "{count} service orders",
+    "de": "{count} Serviceaufträge"
+  },
+  "{count} servis kaydı_one": {
+    "en": "{count} service order",
+    "de": "{count} Serviceauftrag"
+  },
+  "Servis geçmişi": {
+    "en": "Service history",
+    "de": "Servicehistorie"
+  },
+  "Cihaz arşivi": {
+    "en": "Device archive",
+    "de": "Gerätearchiv"
+  },
+  "{count} cihaz": {
+    "en": "{count} devices",
+    "de": "{count} Geräte"
+  },
+  "{count} cihaz_one": {
+    "en": "{count} device",
+    "de": "{count} Gerät"
+  },
+  "Seri / IMEI: {serial}": {
+    "en": "Serial / IMEI: {serial}",
+    "de": "Seriennr. / IMEI: {serial}"
+  },
+  "Seri numarası eklenmemiş": {
+    "en": "No serial number provided",
+    "de": "Keine Seriennummer hinterlegt"
+  },
+  "Cihaz geçmişi": {
+    "en": "Device history",
+    "de": "Gerätehistorie"
+  },
+  "Teklifler ve müşteri kararları": {
+    "en": "Estimates & customer decisions",
+    "de": "Kostenvoranschläge & Kundenentscheidungen"
+  },
+  "{count} teklif": {
+    "en": "{count} estimates",
+    "de": "{count} Kostenvoranschläge"
+  },
+  "{count} teklif_one": {
+    "en": "{count} estimate",
+    "de": "{count} Kostenvoranschlag"
+  },
+  "Henüz teklif oluşturulmadı.": {
+    "en": "No estimates have been created yet.",
+    "de": "Es wurden noch keine Kostenvoranschläge erstellt."
+  },
+  "İyi bir servis, iyi bir ekip.": {
+    "en": "Great service starts with a great team.",
+    "de": "Guter Service beginnt mit einem guten Team."
+  },
+  "Yöneticiler ekip üyelerini tanımlar. Teknisyenler servis sürecini yönetir.": {
+    "en": "Administrators manage team access. Technicians manage service orders.",
+    "de": "Administratoren verwalten den Teamzugriff. Techniker bearbeiten die Serviceaufträge."
+  },
+  "{role} · {state}": {
+    "en": "{role} · {state}",
+    "de": "{role} · {state}"
+  },
+  "{person} rolü": {
+    "en": "Role for {person}",
+    "de": "Rolle von {person}"
+  },
+  "Erişimi kapat": {
+    "en": "Disable access",
+    "de": "Zugriff sperren"
+  },
+  "Erişimi aç": {
+    "en": "Enable access",
+    "de": "Zugriff freigeben"
+  },
+  "Çalışan ekle": {
+    "en": "Add team member",
+    "de": "Mitarbeiter hinzufügen"
+  },
+  "Çalışan adı": {
+    "en": "Team member name",
+    "de": "Name des Mitarbeiters"
+  },
+  "Çalışan e-postası": {
+    "en": "Team member email",
+    "de": "E-Mail-Adresse des Mitarbeiters"
+  },
+  "Ad soyad": {
+    "en": "Full name",
+    "de": "Vor- und Nachname"
+  },
+  "Giriş e-postası": {
+    "en": "Sign-in email",
+    "de": "E-Mail-Adresse zur Anmeldung"
+  },
+  "Rol": {
+    "en": "Role",
+    "de": "Rolle"
+  },
+  "Ekle": {
+    "en": "Add",
+    "de": "Hinzufügen"
+  },
+  "Bu alanı yönetmek için yönetici yetkisi gerekiyor.": {
+    "en": "Administrator permissions are required to manage this area.",
+    "de": "Für die Verwaltung dieses Bereichs sind Administratorrechte erforderlich."
+  },
+  "Çalışma alanı ayarları": {
+    "en": "Workspace settings",
+    "de": "Arbeitsbereich-Einstellungen"
+  },
+  "Bağlantıların durumu sunucudan kontrol edilir.": {
+    "en": "Integration settings are checked on the server.",
+    "de": "Die Konfiguration der Anbindungen wird serverseitig geprüft."
+  },
+  "PostgreSQL veritabanı": {
+    "en": "PostgreSQL database",
+    "de": "PostgreSQL-Datenbank"
+  },
+  "Korumalı fotoğraf depolama": {
+    "en": "Protected photo storage",
+    "de": "Geschützter Fotospeicher"
+  },
+  "E-posta ile teklif doğrulama": {
+    "en": "Estimate verification by email",
+    "de": "Angebotsbestätigung per E-Mail"
+  },
+  "Yapılandırıldı": {
+    "en": "Configured",
+    "de": "Konfiguriert"
+  },
+  "Bağlantı gerekli": {
+    "en": "Setup required",
+    "de": "Einrichtung erforderlich"
+  },
+  "Müşteriler, kayıtlı e-postalarına gelen 10 dakika geçerli tek kullanımlık kod ile teklif kararını doğrular. E-postası olmayan müşteriler için çalışan önce doğrulanacak adresi kaydetmelidir.": {
+    "en": "Customers confirm their estimate decision with a single-use code sent to their registered email address. The code is valid for 10 minutes. If no email address is on file, a team member must add one first.",
+    "de": "Kunden bestätigen ihre Entscheidung zum Kostenvoranschlag mit einem Einmalcode, der an die hinterlegte E-Mail-Adresse gesendet wird. Der Code ist 10 Minuten gültig. Ist noch keine E-Mail-Adresse hinterlegt, muss ein Mitarbeiter diese zuerst ergänzen."
+  },
+  "Bağlantıları kontrol et": {
+    "en": "Check integrations",
+    "de": "Anbindungen prüfen"
+  },
+  "Size uygun bir görünüm": {
+    "en": "Make it your own",
+    "de": "Ihre Ansicht, Ihre Wahl"
+  },
+  "Tema tercihiniz bu tarayıcıda saklanır.": {
+    "en": "Your appearance preference is saved in this browser.",
+    "de": "Ihre Darstellungseinstellung wird in diesem Browser gespeichert."
+  },
+  "Güvenli erişim": {
+    "en": "Secure access",
+    "de": "Sicherer Zugriff"
+  },
+  "Çalışan hesapları sunucu tarafında yetkilendirilir. Mobil API erişimi süreli ve iptal edilebilir Bearer anahtarlarıyla hazırlanmıştır.": {
+    "en": "Team member permissions are checked on the server. Mobile API access uses time-limited, revocable bearer tokens.",
+    "de": "Mitarbeiterberechtigungen werden serverseitig geprüft. Der mobile API-Zugriff erfolgt über zeitlich begrenzte, widerrufbare Bearer-Token."
+  },
+  "Oturumu kapat": {
+    "en": "Sign out",
+    "de": "Abmelden"
+  },
+  "Çalışan girişi": {
+    "en": "Staff sign-in",
+    "de": "Mitarbeiter-Anmeldung"
+  },
+  "Görünüm tercihi": {
+    "en": "Appearance",
+    "de": "Darstellung"
+  },
+  "Açık": {
+    "en": "Light",
+    "de": "Hell"
+  },
+  "Koyu": {
+    "en": "Dark",
+    "de": "Dunkel"
+  },
+  "Sistem": {
+    "en": "System",
+    "de": "System"
+  },
+  "Açık tema": {
+    "en": "Light theme",
+    "de": "Helles Design"
+  },
+  "Koyu tema": {
+    "en": "Dark theme",
+    "de": "Dunkles Design"
+  },
+  "Sistem tema": {
+    "en": "System theme",
+    "de": "Systemdesign"
+  },
+  "Aydınlık ve ferah": {
+    "en": "Light and spacious",
+    "de": "Hell und übersichtlich"
+  },
+  "Daha az ışık, daha çok odak": {
+    "en": "Less glare, more focus",
+    "de": "Weniger Blendung, mehr Fokus"
+  },
+  "Cihazınızla uyumlu": {
+    "en": "Follow your device",
+    "de": "An Ihr Gerät angepasst"
+  },
+  "Dil": {
+    "en": "Language",
+    "de": "Sprache"
+  },
+  "Uygulama dili": {
+    "en": "Application language",
+    "de": "Anwendungssprache"
+  },
+  "Dil tercihiniz bu tarayıcıda saklanır.": {
+    "en": "Your language preference is saved in this browser.",
+    "de": "Ihre Spracheinstellung wird in diesem Browser gespeichert."
+  },
+  "Dil seçin": {
+    "en": "Choose language",
+    "de": "Sprache wählen"
+  },
+  "Bildirimi kapat": {
+    "en": "Dismiss notification",
+    "de": "Benachrichtigung schließen"
+  },
+  "SERVİS DETAYI": {
+    "en": "ORDER DETAILS",
+    "de": "AUFTRAGSDETAILS"
+  },
+  "Servis detayı": {
+    "en": "Order details",
+    "de": "Auftragsdetails"
+  },
+  "Detayı kapat": {
+    "en": "Close details",
+    "de": "Details schließen"
+  },
+  "Takip bağlantısı": {
+    "en": "Tracking link",
+    "de": "Tracking-Link"
+  },
+  "QR kod": {
+    "en": "QR code",
+    "de": "QR-Code"
+  },
+  "Müşteri görünümü": {
+    "en": "Customer view",
+    "de": "Kundenansicht"
+  },
+  "Bu bağlantı yalnızca bu kayda erişim sağlar.": {
+    "en": "This link only grants access to this service order.",
+    "de": "Dieser Link ermöglicht ausschließlich den Zugriff auf diesen Serviceauftrag."
+  },
+  "Güvenli müşteri takip bağlantısı QR kodu": {
+    "en": "QR code for the secure customer tracking link",
+    "de": "QR-Code für den sicheren Kunden-Tracking-Link"
+  },
+  "Genel bilgiler": {
+    "en": "Overview",
+    "de": "Allgemeine Informationen"
+  },
+  "İşlem geçmişi": {
+    "en": "Activity log",
+    "de": "Aktivitätsverlauf"
+  },
+  "Fiyat teklifi": {
+    "en": "Estimate",
+    "de": "Kostenvoranschlag"
+  },
+  "Fotoğraflar": {
+    "en": "Photos",
+    "de": "Fotos"
+  },
+  "Müşteri bilgileri": {
+    "en": "Customer details",
+    "de": "Kundendaten"
+  },
+  "E-posta eklenmemiş": {
+    "en": "No email address provided",
+    "de": "Keine E-Mail-Adresse hinterlegt"
+  },
+  "Doğrulama için e-posta adresi": {
+    "en": "Email address for verification",
+    "de": "E-Mail-Adresse zur Bestätigung"
+  },
+  "Müşteri e-posta adresi": {
+    "en": "Customer email address",
+    "de": "E-Mail-Adresse des Kunden"
+  },
+  "Kaydet": {
+    "en": "Save",
+    "de": "Speichern"
+  },
+  "Cihaz kabulü": {
+    "en": "Device intake",
+    "de": "Geräteannahme"
+  },
+  "Bildirilen arıza": {
+    "en": "Reported issue",
+    "de": "Gemeldeter Defekt"
+  },
+  "Fiziksel durum": {
+    "en": "Physical condition",
+    "de": "Äußerer Zustand"
+  },
+  "Aksesuarlar": {
+    "en": "Accessories",
+    "de": "Zubehör"
+  },
+  "Seri numarası / IMEI": {
+    "en": "Serial number / IMEI",
+    "de": "Seriennummer / IMEI"
+  },
+  "Sorumlu teknisyen": {
+    "en": "Assigned technician",
+    "de": "Zuständiger Techniker"
+  },
+  "Belirtilmedi": {
+    "en": "Not specified",
+    "de": "Nicht angegeben"
+  },
+  "Yok": {
+    "en": "None",
+    "de": "Keine"
+  },
+  "Süreci güncelle": {
+    "en": "Update service status",
+    "de": "Bearbeitungsstatus aktualisieren"
+  },
+  "Müşteri onayı, tamamlama ve teslim kuralları sunucuda denetlenir.": {
+    "en": "Customer approval, completion and handover requirements are enforced on the server.",
+    "de": "Kundenfreigabe, Reparaturabschluss und Übergabe werden serverseitig auf ihre Voraussetzungen geprüft."
+  },
+  "Yeni servis durumu": {
+    "en": "New service status",
+    "de": "Neuer Bearbeitungsstatus"
+  },
+  "Güncelle": {
+    "en": "Update",
+    "de": "Aktualisieren"
+  },
+  "Tamiri tamamla": {
+    "en": "Complete repair",
+    "de": "Reparatur abschließen"
+  },
+  "Yapılan işlemler": {
+    "en": "Work performed",
+    "de": "Durchgeführte Arbeiten"
+  },
+  "Değiştirilen parçalar": {
+    "en": "Replaced parts",
+    "de": "Ausgetauschte Teile"
+  },
+  "Nihai ücret (₺)": {
+    "en": "Final charge (₺)",
+    "de": "Endbetrag (₺)"
+  },
+  "Garanti süresi ve koşulları": {
+    "en": "Warranty period and terms",
+    "de": "Garantiedauer und -bedingungen"
+  },
+  "Teslime hazır olarak kaydet": {
+    "en": "Mark ready for collection",
+    "de": "Als abholbereit markieren"
+  },
+  "Tamamlanan işlemler": {
+    "en": "Completed work",
+    "de": "Abgeschlossene Arbeiten"
+  },
+  "Garanti:": {
+    "en": "Warranty:",
+    "de": "Garantie:"
+  },
+  "Teslim kaydı": {
+    "en": "Record handover",
+    "de": "Übergabe erfassen"
+  },
+  "Teslim açıklaması": {
+    "en": "Handover note",
+    "de": "Übergabenotiz"
+  },
+  "Teslim alan kişi ve teslim bilgileri": {
+    "en": "Recipient and handover details",
+    "de": "Empfänger und Angaben zur Übergabe"
+  },
+  "Teslim edildi olarak kaydet": {
+    "en": "Record handover",
+    "de": "Als übergeben markieren"
+  },
+  "Takip bağlantısını yenile": {
+    "en": "Regenerate tracking link",
+    "de": "Tracking-Link erneuern"
+  },
+  "Eski bağlantı anında geçersiz olur. Yeni bağlantıyı müşteriyle paylaşmanız gerekir.": {
+    "en": "The old link will stop working immediately. Share the new link with the customer.",
+    "de": "Der bisherige Link wird sofort ungültig. Teilen Sie den neuen Link mit dem Kunden."
+  },
+  "Yeni güvenli bağlantı oluştur": {
+    "en": "Generate a new secure link",
+    "de": "Neuen sicheren Link erstellen"
+  },
+  "İç not": {
+    "en": "Internal note",
+    "de": "Interne Notiz"
+  },
+  "Yeni not ekle": {
+    "en": "Add a note",
+    "de": "Notiz hinzufügen"
+  },
+  "Not metni": {
+    "en": "Note text",
+    "de": "Notiztext"
+  },
+  "Süreç hakkında bir açıklama yazın...": {
+    "en": "Add an update about the service order...",
+    "de": "Schreiben Sie eine Anmerkung zum Serviceauftrag …"
+  },
+  "Yalnızca servis çalışanları görsün": {
+    "en": "Visible to staff only",
+    "de": "Nur für Mitarbeiter sichtbar"
+  },
+  "Notu kaydet": {
+    "en": "Save note",
+    "de": "Notiz speichern"
+  },
+  "Tutar veya kapsam değişirse yeni teklif oluşturulur ve yeniden müşteri onayı alınır.": {
+    "en": "Changes to the amount or scope require a new estimate and renewed customer approval.",
+    "de": "Ändern sich Betrag oder Umfang, ist ein neuer Kostenvoranschlag mit erneuter Kundenfreigabe erforderlich."
+  },
+  "Teklif v{version}": {
+    "en": "Estimate v{version}",
+    "de": "Kostenvoranschlag v{version}"
+  },
+  "Onaylandı": {
+    "en": "Approved",
+    "de": "Freigegeben"
+  },
+  "Reddedildi": {
+    "en": "Rejected",
+    "de": "Abgelehnt"
+  },
+  "İşçilik": {
+    "en": "Labour",
+    "de": "Arbeitskosten"
+  },
+  "Toplam": {
+    "en": "Total",
+    "de": "Gesamtbetrag"
+  },
+  "Karar:": {
+    "en": "Decision:",
+    "de": "Entscheidung:"
+  },
+  "Yeni teklif sürümü": {
+    "en": "New estimate version",
+    "de": "Neue Angebotsversion"
+  },
+  "Fiyat teklifi oluştur": {
+    "en": "Create an estimate",
+    "de": "Kostenvoranschlag erstellen"
+  },
+  "Tespit edilen arıza": {
+    "en": "Diagnosed issue",
+    "de": "Festgestellter Defekt"
+  },
+  "Yapılacak işlemler": {
+    "en": "Proposed work",
+    "de": "Geplante Arbeiten"
+  },
+  "Parçalar ve ücretleri": {
+    "en": "Parts and prices",
+    "de": "Teile und Preise"
+  },
+  "Parça adı": {
+    "en": "Part name",
+    "de": "Teilebezeichnung"
+  },
+  "Tutar (₺)": {
+    "en": "Amount (₺)",
+    "de": "Betrag (₺)"
+  },
+  "Parçayı kaldır": {
+    "en": "Remove part",
+    "de": "Teil entfernen"
+  },
+  "Parça ekle": {
+    "en": "Add part",
+    "de": "Teil hinzufügen"
+  },
+  "İşçilik (₺)": {
+    "en": "Labour (₺)",
+    "de": "Arbeitskosten (₺)"
+  },
+  "Tahmini teslim": {
+    "en": "Estimated collection date",
+    "de": "Voraussichtlicher Abholtermin"
+  },
+  "Teklif toplamı": {
+    "en": "Estimate total",
+    "de": "Gesamtbetrag des Kostenvoranschlags"
+  },
+  "Teklifi onaya sun": {
+    "en": "Submit estimate for approval",
+    "de": "Kostenvoranschlag zur Freigabe senden"
+  },
+  "Müşteriye göster": {
+    "en": "Show to customer",
+    "de": "Für Kunden anzeigen"
+  },
+  "Fotoğraflar hikâyeyi tamamlar.": {
+    "en": "Photos complete the picture.",
+    "de": "Fotos ergänzen die Dokumentation."
+  },
+  "Kabul, tamir öncesi ve sonrası fotoğrafları ekleyin.": {
+    "en": "Add intake, before-repair and after-repair photos.",
+    "de": "Fügen Sie Fotos bei der Annahme sowie vor und nach der Reparatur hinzu."
+  },
+  "Fotoğraf ekle": {
+    "en": "Add photos",
+    "de": "Fotos hinzufügen"
+  },
+  "Fotoğraflar · JPEG, PNG, WebP · en fazla 8 MB": {
+    "en": "Photos · JPEG, PNG, WebP · up to 8 MB each",
+    "de": "Fotos · JPEG, PNG, WebP · jeweils bis zu 8 MB"
+  },
+  "Yükleme önizlemesi": {
+    "en": "Upload preview",
+    "de": "Upload-Vorschau"
+  },
+  "Aşama": {
+    "en": "Stage",
+    "de": "Phase"
+  },
+  "Kabul": {
+    "en": "Intake",
+    "de": "Annahme"
+  },
+  "Tamir öncesi": {
+    "en": "Before repair",
+    "de": "Vor der Reparatur"
+  },
+  "Tamir sonrası": {
+    "en": "After repair",
+    "de": "Nach der Reparatur"
+  },
+  "Müşteri takip sayfasında göster": {
+    "en": "Show on customer tracking page",
+    "de": "Auf der Kunden-Tracking-Seite anzeigen"
+  },
+  "Yükleniyor...": {
+    "en": "Uploading...",
+    "de": "Wird hochgeladen …"
+  },
+  "Fotoğrafları yükle": {
+    "en": "Upload photos",
+    "de": "Fotos hochladen"
+  },
+  "{progress}% yükleniyor": {
+    "en": "Uploading {progress}%",
+    "de": "Upload: {progress} %"
+  },
+  "{phase} fotoğrafı": {
+    "en": "{phase} photo",
+    "de": "Foto: {phase}"
+  },
+  "Değişiklikler işlem geçmişine kaydedilir.": {
+    "en": "Changes are recorded in the activity log.",
+    "de": "Änderungen werden im Aktivitätsverlauf dokumentiert."
+  },
+  "YENİ BİR CİHAZ, YENİ BİR HİKÂYE": {
+    "en": "A NEW DEVICE, A NEW STORY",
+    "de": "EIN NEUES GERÄT, EINE NEUE GESCHICHTE"
+  },
+  "Servis kaydı oluştur": {
+    "en": "Create service order",
+    "de": "Serviceauftrag anlegen"
+  },
+  "Formu kapat": {
+    "en": "Close form",
+    "de": "Formular schließen"
+  },
+  "Cihaz ve arıza": {
+    "en": "Device & issue",
+    "de": "Gerät & Defekt"
+  },
+  "Kabul bilgileri": {
+    "en": "Intake details",
+    "de": "Annahmedaten"
+  },
+  "Müşterinizi tanıyalım.": {
+    "en": "Let's start with the customer.",
+    "de": "Beginnen wir mit dem Kunden."
+  },
+  "Aynı telefon numarası, mevcut müşteriyle otomatik eşleştirilir.": {
+    "en": "An existing customer is matched automatically by phone number.",
+    "de": "Bestehende Kunden werden anhand der Telefonnummer automatisch zugeordnet."
+  },
+  "Mevcut müşteriden seç": {
+    "en": "Select an existing customer",
+    "de": "Bestehenden Kunden auswählen"
+  },
+  "Yeni müşteri / müşteri seçin": {
+    "en": "New customer / select a customer",
+    "de": "Neuer Kunde / Kunden auswählen"
+  },
+  "Ad soyad *": {
+    "en": "Full name *",
+    "de": "Vor- und Nachname *"
+  },
+  "Örn. Elif Yılmaz": {
+    "en": "e.g. Alex Taylor",
+    "de": "z. B. Alex Schneider"
+  },
+  "Telefon numarası *": {
+    "en": "Phone number *",
+    "de": "Telefonnummer *"
+  },
+  "E-posta adresi": {
+    "en": "Email address",
+    "de": "E-Mail-Adresse"
+  },
+  "Teklif onayı için müşterinin erişebildiği bir e-posta gerekir.": {
+    "en": "Estimate approval requires an email address the customer can access.",
+    "de": "Zur Angebotsfreigabe ist eine E-Mail-Adresse erforderlich, auf die der Kunde zugreifen kann."
+  },
+  "Cihazı ve arızayı kaydedin.": {
+    "en": "Record the device and the issue.",
+    "de": "Erfassen Sie das Gerät und den Defekt."
+  },
+  "Cihaz türü *": {
+    "en": "Device type *",
+    "de": "Gerätetyp *"
+  },
+  "Marka *": {
+    "en": "Brand *",
+    "de": "Marke *"
+  },
+  "Model *": {
+    "en": "Model *",
+    "de": "Modell *"
+  },
+  "Seri no / IMEI": {
+    "en": "Serial no. / IMEI",
+    "de": "Seriennr. / IMEI"
+  },
+  "Müşterinin bildirdiği arıza *": {
+    "en": "Issue reported by the customer *",
+    "de": "Vom Kunden gemeldeter Defekt *"
+  },
+  "Sorunu müşterinizin anlattığı şekilde kaydedin.": {
+    "en": "Describe the issue as reported by the customer.",
+    "de": "Erfassen Sie das Problem so, wie es der Kunde beschrieben hat."
+  },
+  "Son bilgiler, hepsi bu kadar.": {
+    "en": "Just a few final details.",
+    "de": "Nur noch die letzten Angaben."
+  },
+  "Teslim alındığındaki fiziksel durum": {
+    "en": "Physical condition at intake",
+    "de": "Äußerer Zustand bei der Annahme"
+  },
+  "Çizik, kırık, darbe izleri...": {
+    "en": "Scratches, cracks, signs of impact...",
+    "de": "Kratzer, Risse, Stoßspuren …"
+  },
+  "Teslim alınan aksesuarlar": {
+    "en": "Accessories received",
+    "de": "Mitgegebenes Zubehör"
+  },
+  "Şarj kablosu, adaptör, kılıf...": {
+    "en": "Charging cable, adapter, case...",
+    "de": "Ladekabel, Netzteil, Hülle …"
+  },
+  "Teslim alma tarihi *": {
+    "en": "Intake date and time *",
+    "de": "Datum und Uhrzeit der Annahme *"
+  },
+  "Sorumlu teknisyen *": {
+    "en": "Assigned technician *",
+    "de": "Zuständiger Techniker *"
+  },
+  "Teknisyen adı": {
+    "en": "Technician name",
+    "de": "Name des Technikers"
+  },
+  "Kayıt sonrası güvenli takip bağlantısı ve QR kod oluşturulur. Fotoğrafları servis detayından ekleyebilirsiniz.": {
+    "en": "A secure tracking link and QR code are generated after creation. You can add photos from the order details.",
+    "de": "Nach dem Anlegen werden ein sicherer Tracking-Link und ein QR-Code erstellt. Fotos können Sie in den Auftragsdetails hinzufügen."
+  },
+  "Geri": {
+    "en": "Back",
+    "de": "Zurück"
+  },
+  "Vazgeç": {
+    "en": "Cancel",
+    "de": "Abbrechen"
+  },
+  "Devam et": {
+    "en": "Continue",
+    "de": "Weiter"
+  },
+  "Servis kaydını oluştur": {
+    "en": "Create service order",
+    "de": "Serviceauftrag anlegen"
+  },
+  "{index} / {total}": {
+    "en": "{index} / {total}",
+    "de": "{index} / {total}"
+  },
+  "Parça {index} adı": {
+    "en": "Part {index} name",
+    "de": "Bezeichnung von Teil {index}"
+  },
+  "Parça {index} tutarı": {
+    "en": "Part {index} amount",
+    "de": "Betrag für Teil {index}"
+  },
+  "Teslim alındı": {
+    "en": "Received",
+    "de": "Angenommen"
+  },
+  "İnceleniyor": {
+    "en": "Under inspection",
+    "de": "In Prüfung"
+  },
+  "Fiyat onayı bekliyor": {
+    "en": "Awaiting estimate approval",
+    "de": "Angebotsfreigabe ausstehend"
+  },
+  "Tamir ediliyor": {
+    "en": "Under repair",
+    "de": "In Reparatur"
+  },
+  "Parça bekleniyor": {
+    "en": "Awaiting parts",
+    "de": "Warten auf Ersatzteile"
+  },
+  "Teslim edildi": {
+    "en": "Handed over",
+    "de": "Übergeben"
+  },
+  "Teklif reddedildi": {
+    "en": "Estimate declined",
+    "de": "Kostenvoranschlag abgelehnt"
+  },
+  "İptal edildi": {
+    "en": "Cancelled",
+    "de": "Storniert"
+  },
+  "Güvenli servis takibi": {
+    "en": "Secure service tracking",
+    "de": "Sichere Reparaturverfolgung"
+  },
+  "Servis kaydınız yükleniyor...": {
+    "en": "Loading your service order...",
+    "de": "Ihr Serviceauftrag wird geladen …"
+  },
+  "ÖRNEK TAKİP SAYFASI": {
+    "en": "DEMO TRACKING PAGE",
+    "de": "DEMO-TRACKING-SEITE"
+  },
+  "Bu ekran örnek veriler içerir. Gerçek onay veya ret işlemi yapılmaz.": {
+    "en": "This page contains demo data. No actual approval or rejection is recorded.",
+    "de": "Diese Seite enthält Beispieldaten. Es wird keine echte Freigabe oder Ablehnung erfasst."
+  },
+  "CİHAZINIZ EMİN ELLERDE": {
+    "en": "YOUR DEVICE IS IN GOOD HANDS",
+    "de": "IHR GERÄT IST IN GUTEN HÄNDEN"
+  },
+  "Her adımda, haberdarsınız.": {
+    "en": "Stay informed at every step.",
+    "de": "Bei jedem Schritt informiert."
+  },
+  "Cihazınızın servis sürecini buradan takip edebilirsiniz.": {
+    "en": "Track your device's repair progress here.",
+    "de": "Verfolgen Sie hier den Reparaturfortschritt Ihres Geräts."
+  },
+  "· Kabul:": {
+    "en": "· Received:",
+    "de": "· Angenommen am:"
+  },
+  "Bir sonraki adım için onayınız gerekiyor.": {
+    "en": "Your approval is needed for the next step.",
+    "de": "Für den nächsten Schritt ist Ihre Freigabe erforderlich."
+  },
+  "Teknik inceleme tamamlandı. Teklifinizi inceleyip kararınızı iletebilirsiniz.": {
+    "en": "The inspection is complete. Review the estimate and let us know your decision.",
+    "de": "Die technische Prüfung ist abgeschlossen. Prüfen Sie den Kostenvoranschlag und teilen Sie uns Ihre Entscheidung mit."
+  },
+  "Teklifi incele": {
+    "en": "Review estimate",
+    "de": "Kostenvoranschlag ansehen"
+  },
+  "Servis yolculuğunuz": {
+    "en": "Your repair journey",
+    "de": "Ihr Reparaturverlauf"
+  },
+  "Güncel durum:": {
+    "en": "Current status:",
+    "de": "Aktueller Status:"
+  },
+  "Örnek kayıt": {
+    "en": "Demo order",
+    "de": "Demo-Auftrag"
+  },
+  "Güncel kayıt": {
+    "en": "Current order",
+    "de": "Aktueller Auftrag"
+  },
+  "Tahmini teslim:": {
+    "en": "Estimated collection:",
+    "de": "Voraussichtliche Abholung:"
+  },
+  "Parça ve işlem süresine göre değişebilir.": {
+    "en": "Subject to parts availability and repair time.",
+    "de": "Abhängig von Teileverfügbarkeit und Reparaturdauer."
+  },
+  "Son gelişmeler": {
+    "en": "Latest updates",
+    "de": "Neueste Meldungen"
+  },
+  "Değişen parçalar:": {
+    "en": "Replaced parts:",
+    "de": "Ausgetauschte Teile:"
+  },
+  "Nihai ücret": {
+    "en": "Final charge",
+    "de": "Endbetrag"
+  },
+  "Garanti koşulları:": {
+    "en": "Warranty terms:",
+    "de": "Garantiebedingungen:"
+  },
+  "Garanti bilgisi eklenmedi.": {
+    "en": "No warranty information provided.",
+    "de": "Keine Garantieinformationen hinterlegt."
+  },
+  "Tamamlanma:": {
+    "en": "Completed:",
+    "de": "Abgeschlossen am:"
+  },
+  "Teslim:": {
+    "en": "Handed over:",
+    "de": "Übergeben am:"
+  },
+  "Cihaz fotoğrafları": {
+    "en": "Device photos",
+    "de": "Gerätefotos"
+  },
+  "Fiyat teklifiniz": {
+    "en": "Your estimate",
+    "de": "Ihr Kostenvoranschlag"
+  },
+  "Teklif sürümü {version}": {
+    "en": "Estimate version {version}",
+    "de": "Angebotsversion {version}"
+  },
+  "Teknik inceleme sonrası hazırlanacak": {
+    "en": "Prepared after the technical inspection",
+    "de": "Wird nach der technischen Prüfung erstellt"
+  },
+  "Kararınız, e-postanıza gönderilen tek kullanımlık kodla doğrulanır.": {
+    "en": "Your decision is verified with a single-use code sent to your email.",
+    "de": "Ihre Entscheidung wird mit einem Einmalcode bestätigt, der an Ihre E-Mail-Adresse gesendet wird."
+  },
+  "Kararınız": {
+    "en": "Your decision",
+    "de": "Ihre Entscheidung"
+  },
+  "Teklifi onaylıyorum": {
+    "en": "I approve the estimate",
+    "de": "Ich gebe den Kostenvoranschlag frei"
+  },
+  "Teklifi reddediyorum": {
+    "en": "I decline the estimate",
+    "de": "Ich lehne den Kostenvoranschlag ab"
+  },
+  "E-postama doğrulama kodu gönder": {
+    "en": "Email me a verification code",
+    "de": "Bestätigungscode per E-Mail senden"
+  },
+  "6 haneli kod": {
+    "en": "6-digit code",
+    "de": "6-stelliger Code"
+  },
+  "Kararımı doğrula ve gönder": {
+    "en": "Verify and submit my decision",
+    "de": "Entscheidung bestätigen und senden"
+  },
+  "Yeni kod iste": {
+    "en": "Request a new code",
+    "de": "Neuen Code anfordern"
+  },
+  "Örnek görünümde e-posta gönderilmez.": {
+    "en": "No emails are sent in demo mode.",
+    "de": "Im Demomodus werden keine E-Mails gesendet."
+  },
+  "Bu teklifi onayladınız.": {
+    "en": "You approved this estimate.",
+    "de": "Sie haben diesen Kostenvoranschlag freigegeben."
+  },
+  "Bu teklifi reddettiniz.": {
+    "en": "You declined this estimate.",
+    "de": "Sie haben diesen Kostenvoranschlag abgelehnt."
+  },
+  "Servisiniz incelemeyi tamamladığında teklifiniz burada görünecek.": {
+    "en": "Your estimate will appear here once the inspection is complete.",
+    "de": "Nach Abschluss der Prüfung erscheint Ihr Kostenvoranschlag hier."
+  },
+  "Aklınıza bir şey mi takıldı?": {
+    "en": "Have a question?",
+    "de": "Haben Sie eine Frage?"
+  },
+  "Servisinizle iletişime geçerken servis numaranızı paylaşın.": {
+    "en": "Quote your service order number when contacting the repair centre.",
+    "de": "Geben Sie bei Rückfragen an den Reparaturservice Ihre Auftragsnummer an."
+  },
+  "Teknik servis": {
+    "en": "Repair service",
+    "de": "Reparaturservice"
+  },
+  "Servisi ara": {
+    "en": "Call repair centre",
+    "de": "Reparaturservice anrufen"
+  },
+  "İletişim için cihaz kabul belgenizdeki servis bilgilerini kullanın.": {
+    "en": "Use the contact details on your device intake receipt.",
+    "de": "Die Kontaktdaten finden Sie auf Ihrem Geräteannahmebeleg."
+  },
+  "Bu bağlantı yalnızca size ait servis kaydını görüntüler.": {
+    "en": "This link only displays your own service order.",
+    "de": "Dieser Link zeigt ausschließlich Ihren eigenen Serviceauftrag an."
+  },
+  "UstaX ile güvenle.": {
+    "en": "Securely powered by UstaX.",
+    "de": "Sicher mit UstaX."
+  },
+  "Servis kaydına ulaşılamadı.": {
+    "en": "Unable to access the service order.",
+    "de": "Der Serviceauftrag konnte nicht aufgerufen werden."
+  },
+  "Bağlantı geçersiz veya iptal edilmiş olabilir.": {
+    "en": "The link may be invalid or may have been revoked.",
+    "de": "Der Link ist möglicherweise ungültig oder wurde widerrufen."
+  },
+  "Lütfen servisinizden yeni bir takip bağlantısı isteyin.": {
+    "en": "Please ask your repair centre for a new tracking link.",
+    "de": "Bitten Sie Ihren Reparaturservice um einen neuen Tracking-Link."
+  },
+  "Fotoğraf önizlemesi": {
+    "en": "Photo preview",
+    "de": "Fotovorschau"
+  },
+  "Fotoğrafı kapat": {
+    "en": "Close photo",
+    "de": "Foto schließen"
+  },
+  "Büyütülmüş cihaz fotoğrafı": {
+    "en": "Enlarged device photo",
+    "de": "Vergrößertes Gerätefoto"
+  },
+  "İşinize kaldığınız yerden devam edin.": {
+    "en": "Pick up where you left off.",
+    "de": "Machen Sie dort weiter, wo Sie aufgehört haben."
+  },
+  "Servis ekibinize tanımlanmış hesapla güvenli giriş yapın.": {
+    "en": "Sign in securely with your registered staff account.",
+    "de": "Melden Sie sich sicher mit Ihrem hinterlegten Mitarbeiterkonto an."
+  },
+  "Erişim sunucuda çalışan üyeliğiniz ve rolünüzle doğrulanır.": {
+    "en": "Your staff membership and role are verified on the server.",
+    "de": "Ihre Mitarbeiterzugehörigkeit und Rolle werden serverseitig geprüft."
+  },
+  "Panele dön": {
+    "en": "Back to dashboard",
+    "de": "Zurück zur Übersicht"
+  },
+  "Her aşamada, kontrol sizde.": {
+    "en": "Stay in control at every stage.",
+    "de": "In jeder Phase den Überblick behalten."
+  },
+  "Daha düzenli bir servis.": {
+    "en": "A more organised service.",
+    "de": "Ein besser organisierter Service."
+  },
+  "Daha mutlu müşteriler.": {
+    "en": "Happier customers.",
+    "de": "Zufriedenere Kunden."
+  },
+  "Çalışma alanını incele": {
+    "en": "Explore workspace",
+    "de": "Arbeitsbereich ansehen"
+  },
+  "Örnek görünüm: değişiklik kaydetmek için PostgreSQL bağlantısını tamamlayın.": {
+    "en": "Demo mode: configure the PostgreSQL connection to save changes.",
+    "de": "Demomodus: Richten Sie die PostgreSQL-Verbindung ein, um Änderungen zu speichern."
+  },
+  "Değişiklik kaydedildi.": {
+    "en": "Changes saved.",
+    "de": "Änderungen gespeichert."
+  },
+  "Güvenli bağlantı ilk kayıtta gösterilir. Yönetici yeni bağlantı üretebilir.": {
+    "en": "The secure link is shown when the order is created. An administrator can generate a new one.",
+    "de": "Der sichere Link wird beim Anlegen des Auftrags angezeigt. Ein Administrator kann einen neuen Link erstellen."
+  },
+  "Takip bağlantısı kopyalandı.": {
+    "en": "Tracking link copied.",
+    "de": "Tracking-Link kopiert."
+  },
+  "Ekip yönetimi için veritabanını bağlayın.": {
+    "en": "Connect the database to manage your team.",
+    "de": "Verbinden Sie die Datenbank, um Ihr Team zu verwalten."
+  },
+  "Ekip üyesi güncellendi.": {
+    "en": "Team member updated.",
+    "de": "Mitarbeiterdaten aktualisiert."
+  },
+  "Çalışan eklendi. Tanımlı e-posta hesabıyla giriş yapabilir.": {
+    "en": "Team member added. They can sign in with the registered email account.",
+    "de": "Mitarbeiter hinzugefügt. Die Anmeldung ist mit dem hinterlegten E-Mail-Konto möglich."
+  },
+  "Rol güncellendi.": {
+    "en": "Role updated.",
+    "de": "Rolle aktualisiert."
+  },
+  "Servis kaydı oluşturuldu. Güvenli bağlantıyı müşterinizle paylaşın.": {
+    "en": "Service order created. Share the secure link with your customer.",
+    "de": "Serviceauftrag angelegt. Teilen Sie den sicheren Link mit Ihrem Kunden."
+  },
+  "Önce yönetici yeni takip bağlantısı oluşturmalı.": {
+    "en": "An administrator must generate a new tracking link first.",
+    "de": "Ein Administrator muss zuerst einen neuen Tracking-Link erstellen."
+  },
+  "Örnek kayıtların bağlantısı yenilenemez.": {
+    "en": "Demo order links cannot be regenerated.",
+    "de": "Links zu Demo-Aufträgen können nicht erneuert werden."
+  },
+  "Yeni bağlantı oluşturuldu. Eski bağlantı iptal edildi.": {
+    "en": "A new link has been generated. The old link has been revoked.",
+    "de": "Ein neuer Link wurde erstellt. Der bisherige Link wurde widerrufen."
+  },
+  "Gerçek servis kaydı oluşturmak için PostgreSQL bağlantısının yapılandırılması gerekiyor. Bu örnek görünüm veri kaydetmez.": {
+    "en": "Configure the PostgreSQL connection to create real service orders. This demo does not save data.",
+    "de": "Richten Sie die PostgreSQL-Verbindung ein, um echte Serviceaufträge anzulegen. Diese Demo speichert keine Daten."
+  },
+  "Fotoğraf yüklemek için veritabanı ve fotoğraf depolama bağlantısını yapılandırın.": {
+    "en": "Configure the database and photo storage to upload photos.",
+    "de": "Richten Sie die Datenbank und den Fotospeicher ein, um Fotos hochzuladen."
+  },
+  "En az bir fotoğraf seçin.": {
+    "en": "Select at least one photo.",
+    "de": "Wählen Sie mindestens ein Foto aus."
+  },
+  "8 MB sınırını aşan dosya var. Daha küçük bir fotoğraf seçin.": {
+    "en": "A file exceeds the 8 MB limit. Choose a smaller photo.",
+    "de": "Eine Datei überschreitet die Grenze von 8 MB. Wählen Sie ein kleineres Foto aus."
+  },
+  "Yükleme yanıtı alınamadı.": {
+    "en": "No upload response was received.",
+    "de": "Es wurde keine Antwort auf den Upload empfangen."
+  },
+  "Bağlantı kesildi. Tekrar deneyin.": {
+    "en": "Connection lost. Please try again.",
+    "de": "Die Verbindung wurde unterbrochen. Versuchen Sie es erneut."
+  },
+  "Kararınız güvenle kaydedildi.": {
+    "en": "Your decision has been securely recorded.",
+    "de": "Ihre Entscheidung wurde sicher gespeichert."
+  },
+  "İşlem tamamlanamadı.": {
+    "en": "The action could not be completed.",
+    "de": "Der Vorgang konnte nicht abgeschlossen werden."
+  },
+  "Bilgileri kontrol edin.": {
+    "en": "Please check the information you entered.",
+    "de": "Bitte prüfen Sie Ihre Angaben."
+  },
+  "Kurulum gerekli.": {
+    "en": "Setup is required.",
+    "de": "Eine Einrichtung ist erforderlich."
+  },
+  "Kurulum gerekli: PostgreSQL bağlantısı henüz eklenmedi. Örnek görünüm gerçek müşteri verisi içermez.": {
+    "en": "Setup required: the PostgreSQL connection has not been configured. The demo contains no real customer data.",
+    "de": "Einrichtung erforderlich: Die PostgreSQL-Verbindung wurde noch nicht konfiguriert. Die Demo enthält keine echten Kundendaten."
+  },
+  "İşlem tamamlanamadı. Bağlantıyı ve sunucu yapılandırmasını kontrol edin.": {
+    "en": "The action could not be completed. Check the connection and server configuration.",
+    "de": "Der Vorgang konnte nicht abgeschlossen werden. Prüfen Sie die Verbindung und die Serverkonfiguration."
+  },
+  "Onay bekleyen teklif bulunmuyor.": {
+    "en": "There is no estimate awaiting approval.",
+    "de": "Es liegt kein Kostenvoranschlag zur Freigabe vor."
+  },
+  "Servis çalışanı doğrulama için e-posta adresinizi eklemelidir.": {
+    "en": "A staff member must add your email address for verification.",
+    "de": "Ein Mitarbeiter muss Ihre E-Mail-Adresse zur Bestätigung hinterlegen."
+  },
+  "E-posta doğrulama altyapısı yapılandırılmadı. Servisinizle iletişime geçin.": {
+    "en": "Email verification has not been configured. Contact your repair centre.",
+    "de": "Die E-Mail-Bestätigung wurde noch nicht eingerichtet. Wenden Sie sich an Ihren Reparaturservice."
+  },
+  "E-posta gönderilemedi. Tekrar deneyin.": {
+    "en": "The email could not be sent. Please try again.",
+    "de": "Die E-Mail konnte nicht gesendet werden. Versuchen Sie es erneut."
+  },
+  "Doğrulama kodu kayıtlı e-posta adresinize gönderildi.": {
+    "en": "A verification code has been sent to your registered email address.",
+    "de": "Ein Bestätigungscode wurde an Ihre hinterlegte E-Mail-Adresse gesendet."
+  },
+  "Teklif güncellendi. Sayfayı yenileyin.": {
+    "en": "The estimate has changed. Please refresh the page.",
+    "de": "Der Kostenvoranschlag wurde aktualisiert. Laden Sie die Seite neu."
+  },
+  "Bu teklif için daha önce farklı bir karar kaydedildi.": {
+    "en": "A different decision has already been recorded for this estimate.",
+    "de": "Für diesen Kostenvoranschlag wurde bereits eine andere Entscheidung erfasst."
+  },
+  "Kod geçersiz, süresi dolmuş veya deneme sınırına ulaşılmış.": {
+    "en": "The code is invalid, has expired or has reached the attempt limit.",
+    "de": "Der Code ist ungültig, abgelaufen oder die maximale Anzahl an Versuchen wurde erreicht."
+  },
+  "Kayıt değişti veya kod kullanıldı. Yenileyip tekrar deneyin.": {
+    "en": "The order has changed or the code has been used. Refresh and try again.",
+    "de": "Der Auftrag wurde geändert oder der Code wurde bereits verwendet. Laden Sie die Seite neu und versuchen Sie es erneut."
+  },
+  "Uç nokta bulunamadı.": {
+    "en": "Endpoint not found.",
+    "de": "Endpunkt nicht gefunden."
+  },
+  "Fotoğraf bulunamadı.": {
+    "en": "Photo not found.",
+    "de": "Foto nicht gefunden."
+  },
+  "Fotoğraf alınamadı.": {
+    "en": "The photo could not be retrieved.",
+    "de": "Das Foto konnte nicht abgerufen werden."
+  },
+  "Bu işlem için yönetici yetkisi gerekiyor.": {
+    "en": "Administrator permissions are required for this action.",
+    "de": "Für diese Aktion sind Administratorrechte erforderlich."
+  },
+  "Kendi yetkinizi veya erişiminizi değiştiremezsiniz.": {
+    "en": "You cannot change your own permissions or access.",
+    "de": "Sie können Ihre eigenen Berechtigungen oder Ihren eigenen Zugriff nicht ändern."
+  },
+  "Yalnızca bir kez gösterilir. Keychain içinde saklayın.": {
+    "en": "Shown only once. Store it in Keychain.",
+    "de": "Wird nur einmal angezeigt. Speichern Sie den Schlüssel in der Keychain."
+  },
+  "Yönetici yetkisi gerekiyor.": {
+    "en": "Administrator permissions are required.",
+    "de": "Administratorrechte sind erforderlich."
+  },
+  "Kayıt değişti. Tekrar deneyin.": {
+    "en": "The order has changed. Please try again.",
+    "de": "Der Auftrag wurde geändert. Versuchen Sie es erneut."
+  },
+  "Fotoğraf seçin.": {
+    "en": "Select a photo.",
+    "de": "Wählen Sie ein Foto aus."
+  },
+  "Fotoğraf yok.": {
+    "en": "Photo not found.",
+    "de": "Foto nicht gefunden."
+  },
+  "Cihaz henüz teslime hazır değil.": {
+    "en": "The device is not ready for collection yet.",
+    "de": "Das Gerät ist noch nicht abholbereit."
+  },
+  "Tamir ve onaylı teklif tutarı kontrol edilmeli. Fiyat değişiyorsa yeni teklif hazırlayın.": {
+    "en": "Check the repair status and approved estimate total. If the price changes, create a new estimate.",
+    "de": "Prüfen Sie den Reparaturstatus und den freigegebenen Angebotsbetrag. Erstellen Sie bei Preisänderungen einen neuen Kostenvoranschlag."
+  },
+  "Yetkili çalışan hesabıyla giriş yapın.": {
+    "en": "Sign in with an authorised staff account.",
+    "de": "Melden Sie sich mit einem berechtigten Mitarbeiterkonto an."
+  },
+  "Geçersiz istek kaynağı.": {
+    "en": "Invalid request origin.",
+    "de": "Ungültige Anfragenherkunft."
+  },
+  "Çok fazla deneme. 15 dakika sonra tekrar deneyin.": {
+    "en": "Too many attempts. Try again in 15 minutes.",
+    "de": "Zu viele Versuche. Versuchen Sie es in 15 Minuten erneut."
+  },
+  "Servis kaydı bulunamadı veya bağlantı geçersiz.": {
+    "en": "The service order was not found or the link is invalid.",
+    "de": "Der Serviceauftrag wurde nicht gefunden oder der Link ist ungültig."
+  },
+  "Kayıt başka bir çalışan tarafından değiştirildi. Yenileyip tekrar deneyin.": {
+    "en": "Another team member has updated this order. Refresh and try again.",
+    "de": "Ein anderer Mitarbeiter hat diesen Auftrag geändert. Laden Sie die Seite neu und versuchen Sie es erneut."
+  },
+  "Bu durum geçişi için gerekli onay veya teslim bilgisi eksik.": {
+    "en": "The approval or handover details required for this status change are missing.",
+    "de": "Die für diesen Statuswechsel erforderliche Freigabe oder die Übergabeangaben fehlen."
+  },
+  "Önce cihaz incelemesini başlatın.": {
+    "en": "Start the device inspection first.",
+    "de": "Beginnen Sie zuerst mit der Geräteprüfung."
+  },
+  "Fotoğraf depolama bağlantısı henüz yapılandırılmadı.": {
+    "en": "Photo storage has not been configured yet.",
+    "de": "Der Fotospeicher wurde noch nicht konfiguriert."
+  },
+  "Fotoğraf en fazla 8 MB olabilir.": {
+    "en": "Photos must not exceed 8 MB.",
+    "de": "Fotos dürfen höchstens 8 MB groß sein."
+  },
+  "Yalnızca gerçek JPEG, PNG ve WebP dosyaları kabul edilir.": {
+    "en": "Only valid JPEG, PNG and WebP files are accepted.",
+    "de": "Es werden nur gültige JPEG-, PNG- und WebP-Dateien akzeptiert."
+  },
+  "Fotoğraf yüklenemedi. Tekrar deneyin.": {
+    "en": "The photo could not be uploaded. Please try again.",
+    "de": "Das Foto konnte nicht hochgeladen werden. Versuchen Sie es erneut."
+  },
+  "Cihaz teslim alındı.": {
+    "en": "Device received.",
+    "de": "Gerät angenommen."
+  },
+  "Cihaz teslim alındı ve ilk kontroller kaydedildi.": {
+    "en": "Device received and initial checks recorded.",
+    "de": "Gerät angenommen und Erstprüfung dokumentiert."
+  },
+  "Teknik inceleme tamamlandı.": {
+    "en": "Technical inspection completed.",
+    "de": "Technische Prüfung abgeschlossen."
+  },
+  "Fotoğraf eklendi.": {
+    "en": "Photo added.",
+    "de": "Foto hinzugefügt."
+  },
+  "Fotoğraf görünürlüğü değiştirildi.": {
+    "en": "Photo visibility changed.",
+    "de": "Sichtbarkeit des Fotos geändert."
+  },
+  "Müşteri e-posta adresi güncellendi.": {
+    "en": "Customer email address updated.",
+    "de": "E-Mail-Adresse des Kunden aktualisiert."
+  },
+  "Takip bağlantısı yenilendi.": {
+    "en": "Tracking link regenerated.",
+    "de": "Tracking-Link erneuert."
+  },
+  "Teklif v{version} müşteri onayına sunuldu.": {
+    "en": "Estimate v{version} submitted for customer approval.",
+    "de": "Kostenvoranschlag v{version} zur Kundenfreigabe vorgelegt."
+  },
+  "Teklif v{version} onaylandı.": {
+    "en": "Estimate v{version} approved.",
+    "de": "Kostenvoranschlag v{version} freigegeben."
+  },
+  "Teklif v{version} reddedildi.": {
+    "en": "Estimate v{version} declined.",
+    "de": "Kostenvoranschlag v{version} abgelehnt."
+  },
+  "Ekran kırık, dokunmatik çalışmıyor.": {
+    "en": "Cracked screen; touch input is not working.",
+    "de": "Display gebrochen, Touchfunktion ohne Funktion."
+  },
+  "Şarj almıyor, açılışta kapanıyor.": {
+    "en": "Not charging; shuts down during startup.",
+    "de": "Lädt nicht und schaltet sich beim Start aus."
+  },
+  "Batarya hızlı tükeniyor.": {
+    "en": "Battery drains quickly.",
+    "de": "Der Akku entlädt sich schnell."
+  },
+  "Ekranda görüntü yok.": {
+    "en": "No image on the screen.",
+    "de": "Keine Bildschirmanzeige."
+  },
+  "Fan sesi ve ısınma sorunu.": {
+    "en": "Excessive fan noise and overheating.",
+    "de": "Starke Lüftergeräusche und Überhitzung."
+  },
+  "USB bağlantısı çalışmıyor.": {
+    "en": "USB connection is not working.",
+    "de": "USB-Anschluss ohne Funktion."
+  },
+  "Arka kamera odaklanmıyor.": {
+    "en": "Rear camera does not focus.",
+    "de": "Die Rückkamera fokussiert nicht."
+  },
+  "Klavye tuşları çalışmıyor.": {
+    "en": "Keyboard keys are not working.",
+    "de": "Tastaturtasten ohne Funktion."
+  },
+  "Kasa üzerinde hafif kullanım izleri.": {
+    "en": "Minor signs of wear on the casing.",
+    "de": "Leichte Gebrauchsspuren am Gehäuse."
+  },
+  "Cihaz, şarj kablosu": {
+    "en": "Device, charging cable",
+    "de": "Gerät, Ladekabel"
+  },
+  "Ekran modülü değişimi ve dokunmatik kalibrasyonu.": {
+    "en": "Replace the display module and calibrate touch input.",
+    "de": "Displaymodul austauschen und Touchfunktion kalibrieren."
+  },
+  "Arızalı parçanın değişimi, bakım ve son testler.": {
+    "en": "Replace the faulty part, service the device and perform final tests.",
+    "de": "Defektes Teil austauschen, Gerät warten und abschließend prüfen."
+  },
+  "OLED ekran modülü": {
+    "en": "OLED display module",
+    "de": "OLED-Displaymodul"
+  },
+  "Yedek parça": {
+    "en": "Replacement part",
+    "de": "Ersatzteil"
+  },
+  "Müşterinin cihazdaki verileri korunacak.": {
+    "en": "The customer's data on the device must be preserved.",
+    "de": "Die Kundendaten auf dem Gerät müssen erhalten bleiben."
+  },
+  "UstaX — Teklif doğrulama kodunuz": {
+    "en": "UstaX — Your estimate verification code",
+    "de": "UstaX — Ihr Bestätigungscode zum Kostenvoranschlag"
+  },
+  "Doğrulama kodunuz: {code}": {
+    "en": "Your verification code: {code}",
+    "de": "Ihr Bestätigungscode: {code}"
+  },
+  "Kod 10 dakika geçerlidir. Kodunuzu yalnızca UstaX takip sayfasında girin.": {
+    "en": "This code is valid for 10 minutes. Only enter it on the UstaX tracking page.",
+    "de": "Dieser Code ist 10 Minuten gültig. Geben Sie ihn ausschließlich auf der UstaX-Tracking-Seite ein."
+  },
+  "{status}: {count} cihazı görüntüle": {
+    "en": "{status}: view {count} devices",
+    "de": "{status}: {count} Geräte anzeigen"
+  },
+  "Apple, Samsung...": {
+    "en": "Apple, Samsung...",
+    "de": "Apple, Samsung …"
+  },
+  "05xx xxx xx xx": {
+    "en": "+90 5xx xxx xx xx",
+    "de": "+90 5xx xxx xx xx"
+  },
+  "ornek@eposta.com": {
+    "en": "customer@example.com",
+    "de": "kunde@beispiel.de"
+  },
+  "Telefon, tablet ve bilgisayar servisleri için modern servis yönetimi.": {
+    "en": "Modern service management for phone, tablet and computer repairs.",
+    "de": "Moderne Serviceverwaltung für Smartphone-, Tablet- und Computerreparaturen."
+  },
+  "Bu alanı doldurun.": {
+    "en": "Please fill in this field.",
+    "de": "Bitte füllen Sie dieses Feld aus."
+  },
+  "Geçerli bir e-posta adresi girin.": {
+    "en": "Please enter a valid email address.",
+    "de": "Bitte geben Sie eine gültige E-Mail-Adresse ein."
+  },
+  "Bilgiyi istenen biçimde girin.": {
+    "en": "Please use the requested format.",
+    "de": "Bitte verwenden Sie das vorgegebene Format."
+  },
+  "En az {count} karakter girin.": {
+    "en": "Please enter at least {count} characters.",
+    "de": "Bitte geben Sie mindestens {count} Zeichen ein."
+  },
+  "En fazla {count} karakter girin.": {
+    "en": "Please enter no more than {count} characters.",
+    "de": "Bitte geben Sie höchstens {count} Zeichen ein."
+  },
+  "Değer en az {value} olmalı.": {
+    "en": "The value must be at least {value}.",
+    "de": "Der Wert muss mindestens {value} betragen."
+  },
+  "Değer en fazla {value} olmalı.": {
+    "en": "The value must not exceed {value}.",
+    "de": "Der Wert darf höchstens {value} betragen."
+  },
+  "Geçerli bir değer girin.": {
+    "en": "Please enter a valid value.",
+    "de": "Bitte geben Sie einen gültigen Wert ein."
+  },
+  "Servis kayıtlarınızın güncel durumu.": {
+    "en": "Current status of your service orders.",
+    "de": "Aktueller Stand Ihrer Serviceaufträge."
+  },
+  "Servis kayıtlarını arayın ve güncelleyin.": {
+    "en": "Find and update service orders.",
+    "de": "Serviceaufträge suchen und aktualisieren."
+  },
+  "İşlem bekleyenler": {
+    "en": "Pending actions",
+    "de": "Ausstehende Schritte"
+  },
+  "Durum dağılımı": {
+    "en": "Orders by status",
+    "de": "Aufträge nach Status"
+  },
+  "Aktif servis kayıtları": {
+    "en": "Active service orders",
+    "de": "Aktive Serviceaufträge"
+  },
+  "Görünüm ve dil": {
+    "en": "Appearance and language",
+    "de": "Darstellung und Sprache"
+  },
+  "Cihaz bilgileri": {
+    "en": "Device details",
+    "de": "Gerätedaten"
+  },
+  "Henüz fotoğraf eklenmedi.": {
+    "en": "No photos added yet.",
+    "de": "Noch keine Fotos hinzugefügt."
+  },
+  "Servis takibi": {
+    "en": "Repair tracking",
+    "de": "Reparaturverfolgung"
+  },
+  "Servis iletişim bilgileri": {
+    "en": "Service contact details",
+    "de": "Kontaktdaten des Reparaturservices"
+  },
+  "Servis yönetimi": {
+    "en": "Service management",
+    "de": "Serviceverwaltung"
+  },
+  "Örnek veriler gösteriliyor. Gerçek kayıtlar için kurulumu tamamlayın.": {
+    "en": "Demo data is shown. Complete setup to create real orders.",
+    "de": "Es werden Beispieldaten angezeigt. Schließen Sie die Einrichtung ab, um echte Aufträge anzulegen."
+  },
+  "Menü": {
+    "en": "Menu",
+    "de": "Menü"
+  },
+  "Kapat": {
+    "en": "Close",
+    "de": "Schließen"
+  },
+  "Detay": {
+    "en": "Details",
+    "de": "Details"
+  },
+  "Kaldır": {
+    "en": "Remove",
+    "de": "Entfernen"
+  },
+  "Koyu mod": {
+    "en": "Dark mode",
+    "de": "Dunkelmodus"
+  },
+  "6 haneli doğrulama kodu": {
+    "en": "6-digit verification code",
+    "de": "6-stelliger Bestätigungscode"
+  },
+  "API yanıtı bu sürümle uyumlu değil.": {
+    "en": "The API response is incompatible with this version.",
+    "de": "Die API-Antwort ist mit dieser Version nicht kompatibel."
+  },
+  "Ad veya telefon": {
+    "en": "Name or phone",
+    "de": "Name oder Telefonnummer"
+  },
+  "Bağlantıyı kontrol et": {
+    "en": "Check connection",
+    "de": "Verbindung prüfen"
+  },
+  "Bağlantıyı yenile": {
+    "en": "Renew link",
+    "de": "Link erneuern"
+  },
+  "Bağımsız web sürümünü kullanın.": {
+    "en": "Use the standalone web version.",
+    "de": "Verwenden Sie die eigenständige Webversion."
+  },
+  "Bağımsız web uygulamanızın HTTPS adresini girin.": {
+    "en": "Enter the HTTPS address of your standalone web app.",
+    "de": "Geben Sie die HTTPS-Adresse Ihrer eigenständigen Web-App ein."
+  },
+  "Bitti": {
+    "en": "Done",
+    "de": "Fertig"
+  },
+  "Boyutu sıfırla": {
+    "en": "Reset zoom",
+    "de": "Zoom zurücksetzen"
+  },
+  "Bu bağlantıyı güvenli şekilde saklayın. Yalnızca bir kez gösterilir.": {
+    "en": "Keep this link safe. It is shown only once.",
+    "de": "Bewahren Sie diesen Link sicher auf. Er wird nur einmal angezeigt."
+  },
+  "Cihazımı takip et": {
+    "en": "Track my device",
+    "de": "Mein Gerät verfolgen"
+  },
+  "Cihazın servis geçmişi": {
+    "en": "Device repair history",
+    "de": "Reparaturverlauf des Geräts"
+  },
+  "Doğrulama kodu serviste kayıtlı e-posta adresinize gönderilir.": {
+    "en": "The verification code is sent to the email address held by the repair shop.",
+    "de": "Der Bestätigungscode wird an die beim Service hinterlegte E-Mail-Adresse gesendet."
+  },
+  "Durum değiştirilsin mi?": {
+    "en": "Change status?",
+    "de": "Status ändern?"
+  },
+  "E-posta güncelle": {
+    "en": "Update email",
+    "de": "E-Mail-Adresse ändern"
+  },
+  "Ekip": {
+    "en": "Team",
+    "de": "Team"
+  },
+  "Eski takip bağlantısı iptal edilecek.": {
+    "en": "The previous tracking link will be revoked.",
+    "de": "Der bisherige Tracking-Link wird ungültig."
+  },
+  "Fiyat değişecekse önce yeni teklif hazırlayın.": {
+    "en": "Create a new quote before changing the price.",
+    "de": "Erstellen Sie vor einer Preisänderung einen neuen Kostenvoranschlag."
+  },
+  "Fiyat teklifi hazırla": {
+    "en": "Prepare quote",
+    "de": "Kostenvoranschlag erstellen"
+  },
+  "Fotoğraf açılamadı.": {
+    "en": "The photo could not be opened.",
+    "de": "Das Foto konnte nicht geöffnet werden."
+  },
+  "Fotoğraf seç": {
+    "en": "Choose photos",
+    "de": "Fotos auswählen"
+  },
+  "Fotoğraf yükle": {
+    "en": "Upload photos",
+    "de": "Fotos hochladen"
+  },
+  "Fotoğraf çek": {
+    "en": "Take photo",
+    "de": "Foto aufnehmen"
+  },
+  "Geçerli sunucu adresi girin.": {
+    "en": "Enter a valid server address.",
+    "de": "Geben Sie eine gültige Serveradresse ein."
+  },
+  "Geçersiz sunucu yanıtı.": {
+    "en": "Invalid server response.",
+    "de": "Ungültige Serverantwort."
+  },
+  "HTTPS bağlantısı gerekli.": {
+    "en": "An HTTPS connection is required.",
+    "de": "Eine HTTPS-Verbindung ist erforderlich."
+  },
+  "Henüz fotoğraf yok.": {
+    "en": "No photos yet.",
+    "de": "Noch keine Fotos vorhanden."
+  },
+  "Hesap": {
+    "en": "Account",
+    "de": "Konto"
+  },
+  "JPEG olarak yüklenir. Dosya başına en fazla 8 MB.": {
+    "en": "Uploaded as JPEG. Maximum 8 MB per file.",
+    "de": "Upload als JPEG. Maximal 8 MB pro Datei."
+  },
+  "Kapsam veya fiyat değişirse müşteriden yeniden onay alınır.": {
+    "en": "Changes to scope or price require new customer approval.",
+    "de": "Änderungen an Umfang oder Preis erfordern eine erneute Kundenfreigabe."
+  },
+  "Kendi hesabınız": {
+    "en": "Your account",
+    "de": "Ihr Konto"
+  },
+  "Kopyala": {
+    "en": "Copy",
+    "de": "Kopieren"
+  },
+  "Marka": {
+    "en": "Brand",
+    "de": "Marke"
+  },
+  "Mevcut müşteri seç": {
+    "en": "Choose existing customer",
+    "de": "Vorhandenen Kunden auswählen"
+  },
+  "Model": {
+    "en": "Model",
+    "de": "Modell"
+  },
+  "Müşteri görebilsin": {
+    "en": "Visible to customer",
+    "de": "Für Kunden sichtbar"
+  },
+  "Müşteri takip bağlantısı": {
+    "en": "Customer tracking link",
+    "de": "Tracking-Link für Kunden"
+  },
+  "Müşteri, cihaz, servis no veya teknisyen": {
+    "en": "Customer, device, order number or technician",
+    "de": "Kunde, Gerät, Auftragsnummer oder Techniker"
+  },
+  "Müşteriyi ara": {
+    "en": "Call customer",
+    "de": "Kunden anrufen"
+  },
+  "Not ekle": {
+    "en": "Add note",
+    "de": "Notiz hinzufügen"
+  },
+  "Oturum güvenli alana kaydedilemedi.": {
+    "en": "The session could not be stored securely.",
+    "de": "Die Sitzung konnte nicht sicher gespeichert werden."
+  },
+  "Parça ücreti (TL)": {
+    "en": "Part price (TRY)",
+    "de": "Teilepreis (TRY)"
+  },
+  "Parçalar": {
+    "en": "Parts",
+    "de": "Ersatzteile"
+  },
+  "Paylaş": {
+    "en": "Share",
+    "de": "Teilen"
+  },
+  "Servis numarası": {
+    "en": "Service order number",
+    "de": "Serviceauftragsnummer"
+  },
+  "Sorgula": {
+    "en": "Look up",
+    "de": "Abfragen"
+  },
+  "Sunucu": {
+    "en": "Server",
+    "de": "Server"
+  },
+  "Sunucu değiştiğinde yeniden giriş yapmanız gerekir.": {
+    "en": "Changing servers requires you to sign in again.",
+    "de": "Nach einem Serverwechsel müssen Sie sich erneut anmelden."
+  },
+  "Sunucu oturum açmadı. Bağımsız web sürümünü kullanın.": {
+    "en": "The server did not create a session. Use the standalone web version.",
+    "de": "Der Server hat keine Sitzung erstellt. Verwenden Sie die eigenständige Webversion."
+  },
+  "Takip QR kodu": {
+    "en": "Tracking QR code",
+    "de": "Tracking-QR-Code"
+  },
+  "Takip bağlantısı veya güvenli anahtar": {
+    "en": "Tracking link or secure key",
+    "de": "Tracking-Link oder Sicherheitsschlüssel"
+  },
+  "Tamamlanma tarihi": {
+    "en": "Completion date",
+    "de": "Abschlussdatum"
+  },
+  "Tamir tamamlama": {
+    "en": "Complete repair",
+    "de": "Reparatur abschließen"
+  },
+  "Teklif": {
+    "en": "Quote",
+    "de": "Kostenvoranschlag"
+  },
+  "Teklif geçmişi": {
+    "en": "Quote history",
+    "de": "Verlauf der Kostenvoranschläge"
+  },
+  "Teklif kararınızı kaydetmek istiyor musunuz?": {
+    "en": "Save your quote decision?",
+    "de": "Ihre Entscheidung zum Kostenvoranschlag speichern?"
+  },
+  "Teklifi kaydet": {
+    "en": "Save quote",
+    "de": "Kostenvoranschlag speichern"
+  },
+  "Teklifi onayla": {
+    "en": "Approve quote",
+    "de": "Kostenvoranschlag freigeben"
+  },
+  "Teklifi reddet": {
+    "en": "Reject quote",
+    "de": "Kostenvoranschlag ablehnen"
+  },
+  "Teslim alma tarihi": {
+    "en": "Received on",
+    "de": "Angenommen am"
+  },
+  "Teslim tarihi": {
+    "en": "Handover date",
+    "de": "Übergabedatum"
+  },
+  "Veritabanı bağlantısı gerekli.": {
+    "en": "A database connection is required.",
+    "de": "Eine Datenbankverbindung ist erforderlich."
+  },
+  "Web uygulamanızdaki hesabınızla giriş yapın.": {
+    "en": "Sign in with your web app account.",
+    "de": "Melden Sie sich mit Ihrem Konto aus der Web-App an."
+  },
+  "Yalnızca çalışanlar görsün": {
+    "en": "Staff only",
+    "de": "Nur für Mitarbeiter sichtbar"
+  },
+  "Yeni kayıt": {
+    "en": "New order",
+    "de": "Neuer Auftrag"
+  },
+  "Yeni çalışan parolası sunucudaki yetkili parola komutuyla tanımlanır.": {
+    "en": "Set the new employee's password using the authorized password command on the server.",
+    "de": "Legen Sie das Passwort des neuen Mitarbeiters mit dem berechtigten Passwortbefehl auf dem Server fest."
+  },
+  "Önce en eski": {
+    "en": "Oldest first",
+    "de": "Älteste zuerst"
+  },
+  "Önce sunucu adresini kaydedin.": {
+    "en": "Save the server address first.",
+    "de": "Speichern Sie zuerst die Serveradresse."
+  },
+  "Önceki servis kaydı yok.": {
+    "en": "No previous service orders.",
+    "de": "Keine früheren Serviceaufträge vorhanden."
+  },
+  "İşlem detayları": {
+    "en": "Work details",
+    "de": "Details der Arbeiten"
+  },
+  "İşlem yapabilmemiz için teklif kararınız bekleniyor.": {
+    "en": "We are waiting for your decision before proceeding.",
+    "de": "Wir warten auf Ihre Entscheidung, bevor wir fortfahren."
+  },
+  "İşlemler": {
+    "en": "Actions",
+    "de": "Aktionen"
+  },
+  "İşçilik (TL)": {
+    "en": "Labour (TRY)",
+    "de": "Arbeitskosten (TRY)"
+  },
+  "Geçerli takip bağlantısı veya güvenli anahtar girin.": {
+    "en": "Enter a valid tracking link or secure key.",
+    "de": "Geben Sie einen gültigen Tracking-Link oder Sicherheitsschlüssel ein."
+  },
+  "Takip bağlantısı seçili sunucuya ait değil.": {
+    "en": "The tracking link does not belong to the selected server.",
+    "de": "Der Tracking-Link gehört nicht zum ausgewählten Server."
+  },
+  "Sunucu isteği tamamlanamadı.": {
+    "en": "The server request could not be completed.",
+    "de": "Die Serveranfrage konnte nicht abgeschlossen werden."
+  },
+  "Kayıt bulunamadı": {
+    "en": "No orders found",
+    "de": "Keine Aufträge gefunden"
+  },
+  "Henüz servis kaydı yok": {
+    "en": "No service orders yet",
+    "de": "Noch keine Serviceaufträge"
+  },
+  "İlk cihazınızı kaydederek başlayın.": {
+    "en": "Start by registering your first device.",
+    "de": "Beginnen Sie mit der Erfassung Ihres ersten Geräts."
+  },
+  "Arama veya filtrelerinizi değiştirin.": {
+    "en": "Change your search or filters.",
+    "de": "Ändern Sie Ihre Suche oder Filter."
+  },
+  "Müşteri bulunamadı": {
+    "en": "No customers found",
+    "de": "Keine Kunden gefunden"
+  },
+  "Servis kaydı oluşturduğunuzda müşteriler burada görünür.": {
+    "en": "Customers appear here when you create service orders.",
+    "de": "Kunden werden hier angezeigt, sobald Sie Serviceaufträge anlegen."
+  },
+  "İç kullanım": {
+    "en": "Internal use",
+    "de": "Interne Nutzung"
+  },
+  "Müşteriden gizle": {
+    "en": "Hide from customer",
+    "de": "Vor Kunden verbergen"
+  },
+  "Veritabanı": {
+    "en": "Database",
+    "de": "Datenbank"
+  },
+  "E-posta doğrulaması": {
+    "en": "Email verification",
+    "de": "E-Mail-Bestätigung"
+  },
+  "Açıklama": {
+    "en": "Description",
+    "de": "Beschreibung"
+  },
+  "Doğrulama kodu gönder": {
+    "en": "Send verification code",
+    "de": "Bestätigungscode senden"
+  },
+  "Müşteriye açık": {
+    "en": "Visible to customer",
+    "de": "Für Kunden sichtbar"
+  },
+  "Yeni kod gönder": {
+    "en": "Send new code",
+    "de": "Neuen Code senden"
+  },
+  "Uygulama simgesi": {
+    "en": "App icon",
+    "de": "App-Symbol"
+  },
+  "Ana ekrandaki UstaX simgesini seçin.": {
+    "en": "Choose the UstaX icon for your Home Screen.",
+    "de": "Wählen Sie das UstaX-Symbol für Ihren Home-Bildschirm."
+  },
+  "Lacivert U": {
+    "en": "Navy U",
+    "de": "Marineblaues U"
+  },
+  "Petrol yeşili X": {
+    "en": "Teal X",
+    "de": "Petrolfarbenes X"
+  },
+  "Açık zeminli U": {
+    "en": "Ivory U",
+    "de": "U auf hellem Hintergrund"
+  },
+  "Seçili": {
+    "en": "Selected",
+    "de": "Ausgewählt"
+  },
+  "Bu cihazda simge değiştirme desteklenmiyor.": {
+    "en": "Changing the app icon is not supported on this device.",
+    "de": "Das Ändern des App-Symbols wird auf diesem Gerät nicht unterstützt."
+  },
+  "Uygulama simgesi değiştirilemedi.": {
+    "en": "The app icon could not be changed.",
+    "de": "Das App-Symbol konnte nicht geändert werden."
+  },
+  "Servislerinizi tek yerden yönetin.": {
+    "en": "Manage your repairs in one place.",
+    "de": "Verwalten Sie Ihre Reparaturen an einem Ort."
+  },
+  "Sunucu adresi": {
+    "en": "Server address",
+    "de": "Serveradresse"
+  },
+  "İlk kullanımda sunucu adresini ekleyin.": {
+    "en": "Add your server address to get started.",
+    "de": "Geben Sie zum Start Ihre Serveradresse ein."
+  },
+  "Sunucu adresini kontrol edin.": {
+    "en": "Check your server address.",
+    "de": "Überprüfen Sie Ihre Serveradresse."
+  },
+  "Parolayı gizle": {
+    "en": "Hide password",
+    "de": "Passwort ausblenden"
+  },
+  "Parolayı göster": {
+    "en": "Show password",
+    "de": "Passwort anzeigen"
+  },
+  "Takip bağlantınızla servis durumunu görün.": {
+    "en": "View your repair status using your tracking link.",
+    "de": "Prüfen Sie den Reparaturstatus über Ihren Tracking-Link."
+  },
+  "Yükleniyor…": {
+    "en": "Loading…",
+    "de": "Wird geladen…"
+  },
+  "Para birimi": {
+    "en": "Currency",
+    "de": "Währung"
+  },
+  "Yeni kayıtlar için": {
+    "en": "For new orders",
+    "de": "Für neue Aufträge"
+  },
+  "Euro (€)": {
+    "en": "Euro (€)",
+    "de": "Euro (€)"
+  },
+  "Türk lirası (₺)": {
+    "en": "Turkish lira (₺)",
+    "de": "Türkische Lira (₺)"
+  },
+  "ABD doları ($)": {
+    "en": "US dollar ($)",
+    "de": "US-Dollar ($)"
+  },
+  "Yalnızca yeni servis kayıtlarına uygulanır. Mevcut tutarlar dönüştürülmez.": {
+    "en": "Applies only to new service orders. Existing amounts are not converted.",
+    "de": "Gilt nur für neue Serviceaufträge. Bestehende Beträge werden nicht umgerechnet."
+  },
+  "Parça ücreti": {
+    "en": "Part price",
+    "de": "Teilepreis"
+  },
+  "Tutar": {
+    "en": "Amount",
+    "de": "Betrag"
+  },
+  "Adımı kaldır": {
+    "en": "Remove entry",
+    "de": "Eintrag entfernen"
+  },
+  "Bu adım geçmişten kaldırılsın mı? İşlem denetim kaydında saklanır.": {
+    "en": "Remove this entry from the timeline? The action remains in the audit log.",
+    "de": "Diesen Eintrag aus dem Verlauf entfernen? Die Aktion bleibt im Prüfprotokoll gespeichert."
+  },
+  "İlk parola (en az 12 karakter)": {
+    "en": "Initial password (at least 12 characters)",
+    "de": "Anfangspasswort (mindestens 12 Zeichen)"
+  },
+  "Yeni parola (en az 12 karakter)": {
+    "en": "New password (at least 12 characters)",
+    "de": "Neues Passwort (mindestens 12 Zeichen)"
+  },
+  "Parolayı yenile": {
+    "en": "Reset password",
+    "de": "Passwort zurücksetzen"
+  },
+  "Parolayı çalışana güvenli bir kanaldan iletin.": {
+    "en": "Share the password with the employee through a secure channel.",
+    "de": "Übermitteln Sie dem Mitarbeiter das Passwort über einen sicheren Kanal."
+  },
+  "Çalışanın açık oturumları kapatılır.": {
+    "en": "The employee’s active sessions will be signed out.",
+    "de": "Die aktiven Sitzungen des Mitarbeiters werden beendet."
+  },
+  "Fotoğraf hazırlanamadı. Daha küçük bir fotoğraf seçin.": {
+    "en": "The photo could not be prepared. Select a smaller photo.",
+    "de": "Das Foto konnte nicht vorbereitet werden. Wählen Sie ein kleineres Foto."
+  },
+  "Kaynak fotoğraf en fazla 30 MB olabilir.": {
+    "en": "The original photo must be no larger than 30 MB.",
+    "de": "Das Originalfoto darf höchstens 30 MB groß sein."
+  },
+  "Fotoğraf isteği çok büyük. Daha küçük bir fotoğraf seçin.": {
+    "en": "The photo upload is too large. Select a smaller photo.",
+    "de": "Der Foto-Upload ist zu groß. Wählen Sie ein kleineres Foto."
+  },
+  "Fotoğraflar yüklemeden önce en fazla 3 MB boyutunda JPEG olarak hazırlanır.": {
+    "en": "Photos are prepared as JPEG files of up to 3 MB before upload.",
+    "de": "Fotos werden vor dem Hochladen als JPEG-Dateien mit höchstens 3 MB vorbereitet."
+  },
+  "Depolama sunucusu yükleme biçimini desteklemiyor. Güncel sunucu kodunu kullanın.": {
+    "en": "The storage server does not support the upload format. Update the web backend.",
+    "de": "Der Speicherserver unterstützt das Upload-Verfahren nicht. Aktualisieren Sie das Web-Backend."
+  },
+  "Depolama erişimi reddedildi. Yazma yetkisini ve bölge ayarını kontrol edin.": {
+    "en": "Storage access was denied. Check write permissions and the region setting.",
+    "de": "Der Speicherzugriff wurde verweigert. Prüfen Sie Schreibberechtigungen und Region."
+  },
+  "Fotoğraf depolama kovası bulunamadı. Kova adını ve sunucu adresini kontrol edin.": {
+    "en": "Photo storage bucket not found. Check the bucket name and server address.",
+    "de": "Fotospeicher-Bucket nicht gefunden. Prüfen Sie den Bucket-Namen und die Serveradresse."
+  },
+  "Fotoğraf yüklenemedi. Depolama bağlantısını kontrol edin.": {
+    "en": "Photo upload failed. Check the storage connection.",
+    "de": "Das Foto konnte nicht hochgeladen werden. Prüfen Sie die Speicherverbindung."
+  },
+  "Geçmiş adımı bulunamadı.": {
+    "en": "Timeline entry not found.",
+    "de": "Verlaufseintrag nicht gefunden."
+  },
+  "Takip bağlantısı ve QR kod": {
+    "en": "Tracking link and QR code",
+    "de": "Tracking-Link und QR-Code"
+  },
+  "Seçilen fotoğrafları yükle": {
+    "en": "Upload selected photos",
+    "de": "Ausgewählte Fotos hochladen"
+  },
+  "fotoğraf seçildi": {
+    "en": "photos selected",
+    "de": "Fotos ausgewählt"
+  },
+  "Seçimi temizle": {
+    "en": "Clear selection",
+    "de": "Auswahl aufheben"
+  },
+  "Yükleme sürüyor. Aşama değişikliği sonraki yüklemeye uygulanır.": {
+    "en": "Upload in progress. Phase changes apply to the next upload.",
+    "de": "Upload läuft. Änderungen der Phase gelten für den nächsten Upload."
+  },
+  "Dosyalardan fotoğraf seç": {
+    "en": "Choose photo from Files",
+    "de": "Foto aus Dateien auswählen"
+  },
+  "Fotoğraf arşivden alınamadı. Dosyalardan fotoğraf seç seçeneğini deneyin.": {
+    "en": "The photo could not be retrieved from the library. Try Choose photo from Files.",
+    "de": "Das Foto konnte nicht aus der Mediathek geladen werden. Versuchen Sie „Foto aus Dateien auswählen“."
+  },
+  "Fotoğraf dosyası açılamadı. Dosyayı tekrar seçin.": {
+    "en": "The photo file could not be opened. Select the file again.",
+    "de": "Die Fotodatei konnte nicht geöffnet werden. Wählen Sie die Datei erneut aus."
+  },
+  "Fotoğrafı sil": {
+    "en": "Delete photo",
+    "de": "Foto löschen"
+  },
+  "Bu fotoğraf silinsin mi? Müşteri takibinden de kaldırılacak.": {
+    "en": "Delete this photo? It will also be removed from customer tracking.",
+    "de": "Dieses Foto löschen? Es wird auch aus der Kundenverfolgung entfernt."
+  },
+  "Fotoğraf silindi.": {
+    "en": "Photo deleted.",
+    "de": "Foto gelöscht."
+  },
+  "Fotoğraf kayıttan kaldırıldı. Depolama temizliği bekliyor.": {
+    "en": "The photo was removed from the record. Storage cleanup is pending.",
+    "de": "Das Foto wurde aus dem Auftrag entfernt. Die Bereinigung des Speichers steht noch aus."
+  },
+  "Fotoğraf depolamadan silinemedi.": {
+    "en": "The photo could not be deleted from storage.",
+    "de": "Das Foto konnte nicht aus dem Speicher gelöscht werden."
+  },
+  "Teklifi sil": {
+    "en": "Delete estimate",
+    "de": "Kostenvoranschlag löschen"
+  },
+  "Bu teklif silinsin mi? Müşteri bu teklif için karar veremeyecek.": {
+    "en": "Delete this estimate? The customer will no longer be able to approve or reject it.",
+    "de": "Diesen Kostenvoranschlag löschen? Der Kunde kann ihn anschließend nicht mehr annehmen oder ablehnen."
+  },
+  "Devam eden veya tamamlanan tamire ait güncel teklif silinemez.": {
+    "en": "The current estimate for an ongoing or completed repair cannot be deleted.",
+    "de": "Der aktuelle Kostenvoranschlag für eine laufende oder abgeschlossene Reparatur kann nicht gelöscht werden."
+  },
+  "Teklif bulunamadı.": {
+    "en": "Estimate not found.",
+    "de": "Kostenvoranschlag nicht gefunden."
+  },
+  "Teklif silindi.": {
+    "en": "Estimate deleted.",
+    "de": "Kostenvoranschlag gelöscht."
+  },
+  "Fiyat teklifi geri çekildi.": {
+    "en": "The estimate was withdrawn.",
+    "de": "Der Kostenvoranschlag wurde zurückgezogen."
+  },
+  "Yeniden aktif et": {
+    "en": "Reactivate",
+    "de": "Erneut aktivieren"
+  },
+  "İptal edilen kayıt yeniden aktif edilsin mi?": {
+    "en": "Reactivate this cancelled service record?",
+    "de": "Diesen stornierten Serviceauftrag erneut aktivieren?"
+  },
+  "Servis kaydı yeniden aktif edildi.": {
+    "en": "Service record reactivated.",
+    "de": "Serviceauftrag erneut aktiviert."
+  },
+  "Yalnızca iptal edilmiş kayıt yeniden açılabilir.": {
+    "en": "Only cancelled service records can be reopened.",
+    "de": "Nur stornierte Serviceaufträge können erneut geöffnet werden."
+  },
+  "Teslim edilmiş cihaz yeniden aktif edilemez.": {
+    "en": "A delivered device cannot be reactivated.",
+    "de": "Ein bereits ausgehändigtes Gerät kann nicht erneut aktiviert werden."
+  },
+  "Bu servis kaydı için teklif onayı kapalı.": {
+    "en": "Estimate approval is closed for this service record.",
+    "de": "Für diesen Serviceauftrag ist die Freigabe des Kostenvoranschlags gesperrt."
+  },
+  "Yanlışlıkla iptal ettiyseniz Yeniden aktif et düğmesini kullanın.": {
+    "en": "If you cancelled by mistake, use Reactivate.",
+    "de": "Wenn Sie den Auftrag versehentlich storniert haben, wählen Sie Erneut aktivieren."
+  },
+  "UstaX hakkında": {
+    "en": "About UstaX",
+    "de": "Über UstaX"
+  },
+  "UstaX, telefon, tablet ve bilgisayar teknik servisleri için geliştirilmiş bir servis ve tamir takip sistemidir.": {
+    "en": "UstaX is a service and repair tracking system for phone, tablet and computer repair businesses.",
+    "de": "UstaX ist ein Service- und Reparaturverwaltungssystem für Fachbetriebe, die Smartphones, Tablets und Computer reparieren."
+  },
+  "Müşteri ve cihaz kabulünden fiyat teklifine, müşteri onayından tamir ve teslim aşamalarına kadar süreci tek yerde yönetir. Müşteriler, güvenli takip bağlantılarıyla cihazlarının güncel durumunu görüntüleyebilir.": {
+    "en": "It brings customer and device intake, estimates, customer approval, repairs and handover together in one place. Customers can check the current status of their devices using secure tracking links.",
+    "de": "Es bündelt die Kunden- und Geräteannahme, Kostenvoranschläge, Kundenfreigaben, Reparaturen und die Geräteübergabe an einem Ort. Kunden können den aktuellen Status ihrer Geräte über sichere Tracking-Links einsehen."
+  },
+  "Mirac Suicmez tarafından geliştirilmiştir.": {
+    "en": "Developed by Mirac Suicmez.",
+    "de": "Entwickelt von Mirac Suicmez."
+  },
+  "Müşteri onayladı": {
+    "en": "Customer approved",
+    "de": "Kunde hat zugestimmt"
+  },
+  "Müşteri teklifi onayladı. Tamire başlayabilirsiniz.": {
+    "en": "The customer approved the estimate. You can start the repair.",
+    "de": "Der Kunde hat dem Kostenvoranschlag zugestimmt. Sie können mit der Reparatur beginnen."
+  }
+}

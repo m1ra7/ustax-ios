@@ -1,0 +1,2 @@
+"NSCameraUsageDescription" = "Cihaz kabulü ve tamir fotoğraflarını kaydetmek için kamera erişimi gerekir.";
+"NSLocalNetworkUsageDescription" = "Yerel geliştirme sunucusuna bağlanmak için yerel ağ erişimi gerekir.";

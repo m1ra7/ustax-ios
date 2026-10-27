@@ -1,0 +1,2 @@
+"NSCameraUsageDescription" = "Der Kamerazugriff wird für Fotos bei der Geräteannahme und Reparatur benötigt.";
+"NSLocalNetworkUsageDescription" = "Der Zugriff auf das lokale Netzwerk wird für Ihren Entwicklungsserver benötigt.";

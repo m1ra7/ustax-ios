@@ -1,0 +1,482 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		073A58335ED4E8749FAAD972 /* UstaX/Views/PhotosView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3D77F09EE562E318E26A8F /* UstaX/Views/PhotosView.swift */; };
+		08C4B2402F45675FE8D913B2 /* UstaX/Views/RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9882C385B799F18EF7740A78 /* UstaX/Views/RootView.swift */; };
+		0AD34385279732CFBBC4DB5B /* UstaX/Views/TrackingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FD6D4ED3D9CC2121A6499A0 /* UstaX/Views/TrackingView.swift */; };
+		0E873A34BDAD1A8EA63CE6D9 /* UstaX/UstaXApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D703CED78CF5B23F9A4EEFB8 /* UstaX/UstaXApp.swift */; };
+		153D2949D8271EF0AA48E278 /* UstaX/Resources/Icons/IconTeal83.5@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 23F81E81D2C47F341A22C8DF /* UstaX/Resources/Icons/IconTeal83.5@2x~ipad.png */; };
+		1C389A0DABC8BF900A1F09BF /* UstaX/Resources/Icons/IconIvory@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F1934FD82E0E3080A16C6CAC /* UstaX/Resources/Icons/IconIvory@2x.png */; };
+		253E9E34D75EC96A1C31FCD6 /* UstaX/Views/Components.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2C6F79754C5711CB1787454 /* UstaX/Views/Components.swift */; };
+		277F957A744A1584BF24543A /* UstaX/Views/TeamView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68172F707C1DF0B85DC32500 /* UstaX/Views/TeamView.swift */; };
+		30F8CC0BBFF069E566988EEE /* UstaX/Resources/Icons/IconTeal@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BA3D59109E3F39A0A9186BA /* UstaX/Resources/Icons/IconTeal@2x~ipad.png */; };
+		3CE8906CBC0A9BECD5351695 /* UstaX/Resources/Icons/IconTeal~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = D850E60CAB32FEBA932402A2 /* UstaX/Resources/Icons/IconTeal~ipad.png */; };
+		4F2211F289938EB37A3D67BC /* UstaX/Networking/PhotoPipeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A52586786E3CEAB2C7383EF /* UstaX/Networking/PhotoPipeline.swift */; };
+		52B0F58B51D32ED9BCE34AB0 /* UstaX/Networking/APIClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BFF5D82169067C2BFF9AE3 /* UstaX/Networking/APIClient.swift */; };
+		52CE8DAB3FBCFD5607A1BA0F /* UstaX/Resources/Icons/IconTeal@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A297C3F7342A6FD41DC0C757 /* UstaX/Resources/Icons/IconTeal@2x.png */; };
+		702E613A9B2E15F833F704CF /* UstaX/Resources/Icons/IconIvory83.5@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B37F8EF9C74B52E73A1BEC1 /* UstaX/Resources/Icons/IconIvory83.5@2x~ipad.png */; };
+		83BE744E75C4649C9F7BF0BA /* UstaX/Resources/Icons/IconIvory~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 5175AE2F06C643BEB2F0105C /* UstaX/Resources/Icons/IconIvory~ipad.png */; };
+		9ACD71514767EB90FB05DE62 /* UstaX/Resources/LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC4864244FA1B0337B72065B /* UstaX/Resources/LaunchScreen.storyboard */; };
+		9C720C639A78AF4B2CB026CB /* UstaX/Resources/Translations.json in Resources */ = {isa = PBXBuildFile; fileRef = 32BA4602071C333910C7B852 /* UstaX/Resources/Translations.json */; };
+		9D2F3A221B41A6987EEBAB12 /* UstaX/Models/RecordCatalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BA43F2A097CC6B8BFC1F849 /* UstaX/Models/RecordCatalog.swift */; };
+		A54C8D8AEB0E4F732CA2B349 /* UstaX/AppState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E18E8EFF15ED1A399ECC3D /* UstaX/AppState.swift */; };
+		AB5E036EB581BF5B9041EF40 /* UstaX/Resources/Icons/IconIvory@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7F38DFBCCCBCD1AF8A399BE8 /* UstaX/Resources/Icons/IconIvory@3x.png */; };
+		B1678E75CEC1FDCCD5E79E06 /* UstaX/Resources/Icons/IconTeal@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C442264AC5839CBE5EA41EAE /* UstaX/Resources/Icons/IconTeal@3x.png */; };
+		D0E24CB95BAD1783F487A9C3 /* UstaX/Resources/Icons/IconIvory@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = CCBDA3A0A59376312E31D730 /* UstaX/Resources/Icons/IconIvory@2x~ipad.png */; };
+		D65563464A4FF30025AE7746 /* UstaX/Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD5277972FBBA12250E04B5B /* UstaX/Assets.xcassets */; };
+		D76273405076454CD7067E6B /* UstaX/Networking/Keychain.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE956F8BA1B4233C94458C7E /* UstaX/Networking/Keychain.swift */; };
+		E5CE5C68757A1F1DBDBE3552 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E45F3B2BF6B6EC13615332E2 /* InfoPlist.strings */; };
+		ED2731BDD5D28D7E49779826 /* UstaX/Views/RecordDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE283FE59EA920B4F1D72DA1 /* UstaX/Views/RecordDetailView.swift */; };
+		EE6ABC1D621D4A1021D58462 /* UstaX/Views/RecordsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE113CDE62CEB3963850EE2E /* UstaX/Views/RecordsView.swift */; };
+		F2A72E9D927AEA986872446C /* UstaX/Views/Forms.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2497F5FE86BDBC4AC4FDCB3 /* UstaX/Views/Forms.swift */; };
+		F4155B8C665868D0A5B6CFEC /* UstaX/Models/Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 780E384C6F11C733FDF23207 /* UstaX/Models/Models.swift */; };
+		FF8EF5D9BF5D9BA101D8440D /* UstaXTests/UstaXTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD29D446A0932DE55D04A1B /* UstaXTests/UstaXTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		5CC0D122D46868950F270256 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 244210E48437B6556980A702 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5A31B17C37FF20271C73A96F;
+			remoteInfo = UstaX;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0A52586786E3CEAB2C7383EF /* UstaX/Networking/PhotoPipeline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UstaX/Networking/PhotoPipeline.swift; sourceTree = SOURCE_ROOT; };
+		0BA43F2A097CC6B8BFC1F849 /* UstaX/Models/RecordCatalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UstaX/Models/RecordCatalog.swift; sourceTree = SOURCE_ROOT; };
+		1B37F8EF9C74B52E73A1BEC1 /* UstaX/Resources/Icons/IconIvory83.5@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UstaX/Resources/Icons/IconIvory83.5@2x~ipad.png"; sourceTree = SOURCE_ROOT; };
+		23F81E81D2C47F341A22C8DF /* UstaX/Resources/Icons/IconTeal83.5@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UstaX/Resources/Icons/IconTeal83.5@2x~ipad.png"; sourceTree = SOURCE_ROOT; };
+		32BA4602071C333910C7B852 /* UstaX/Resources/Translations.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = UstaX/Resources/Translations.json; sourceTree = SOURCE_ROOT; };
+		3D6F5CEEDAF0BE58FE294306 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = UstaX/Resources/de.lproj/InfoPlist.strings; sourceTree = SOURCE_ROOT; };
+		40BFF5D82169067C2BFF9AE3 /* UstaX/Networking/APIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UstaX/Networking/APIClient.swift; sourceTree = SOURCE_ROOT; };
+		4FD29D446A0932DE55D04A1B /* UstaXTests/UstaXTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UstaXTests/UstaXTests.swift; sourceTree = SOURCE_ROOT; };
+		5175AE2F06C643BEB2F0105C /* UstaX/Resources/Icons/IconIvory~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UstaX/Resources/Icons/IconIvory~ipad.png"; sourceTree = SOURCE_ROOT; };
+		64321F40F98F9F79FEC83C37 /* UstaXTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UstaXTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		672CA84EF526028E60E2E2C7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = UstaX/Resources/en.lproj/InfoPlist.strings; sourceTree = SOURCE_ROOT; };
+		68172F707C1DF0B85DC32500 /* UstaX/Views/TeamView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UstaX/Views/TeamView.swift; sourceTree = SOURCE_ROOT; };
+		6BA3D59109E3F39A0A9186BA /* UstaX/Resources/Icons/IconTeal@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UstaX/Resources/Icons/IconTeal@2x~ipad.png"; sourceTree = SOURCE_ROOT; };
+		780E384C6F11C733FDF23207 /* UstaX/Models/Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UstaX/Models/Models.swift; sourceTree = SOURCE_ROOT; };
+		7F38DFBCCCBCD1AF8A399BE8 /* UstaX/Resources/Icons/IconIvory@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UstaX/Resources/Icons/IconIvory@3x.png"; sourceTree = SOURCE_ROOT; };
+		81E18E8EFF15ED1A399ECC3D /* UstaX/AppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UstaX/AppState.swift; sourceTree = SOURCE_ROOT; };
+		81F31879437340D5CD6ED968 /* UstaX.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UstaX.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A3D77F09EE562E318E26A8F /* UstaX/Views/PhotosView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UstaX/Views/PhotosView.swift; sourceTree = SOURCE_ROOT; };
+		9882C385B799F18EF7740A78 /* UstaX/Views/RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UstaX/Views/RootView.swift; sourceTree = SOURCE_ROOT; };
+		9FD6D4ED3D9CC2121A6499A0 /* UstaX/Views/TrackingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UstaX/Views/TrackingView.swift; sourceTree = SOURCE_ROOT; };
+		A297C3F7342A6FD41DC0C757 /* UstaX/Resources/Icons/IconTeal@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UstaX/Resources/Icons/IconTeal@2x.png"; sourceTree = SOURCE_ROOT; };
+		AE113CDE62CEB3963850EE2E /* UstaX/Views/RecordsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UstaX/Views/RecordsView.swift; sourceTree = SOURCE_ROOT; };
+		B2C6F79754C5711CB1787454 /* UstaX/Views/Components.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UstaX/Views/Components.swift; sourceTree = SOURCE_ROOT; };
+		BC4864244FA1B0337B72065B /* UstaX/Resources/LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = UstaX/Resources/LaunchScreen.storyboard; sourceTree = SOURCE_ROOT; };
+		BE283FE59EA920B4F1D72DA1 /* UstaX/Views/RecordDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UstaX/Views/RecordDetailView.swift; sourceTree = SOURCE_ROOT; };
+		C2497F5FE86BDBC4AC4FDCB3 /* UstaX/Views/Forms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UstaX/Views/Forms.swift; sourceTree = SOURCE_ROOT; };
+		C442264AC5839CBE5EA41EAE /* UstaX/Resources/Icons/IconTeal@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UstaX/Resources/Icons/IconTeal@3x.png"; sourceTree = SOURCE_ROOT; };
+		CCBDA3A0A59376312E31D730 /* UstaX/Resources/Icons/IconIvory@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UstaX/Resources/Icons/IconIvory@2x~ipad.png"; sourceTree = SOURCE_ROOT; };
+		D703CED78CF5B23F9A4EEFB8 /* UstaX/UstaXApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UstaX/UstaXApp.swift; sourceTree = SOURCE_ROOT; };
+		D850E60CAB32FEBA932402A2 /* UstaX/Resources/Icons/IconTeal~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UstaX/Resources/Icons/IconTeal~ipad.png"; sourceTree = SOURCE_ROOT; };
+		DE956F8BA1B4233C94458C7E /* UstaX/Networking/Keychain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UstaX/Networking/Keychain.swift; sourceTree = SOURCE_ROOT; };
+		ECBEE5FE9C88E6A2659C1974 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = UstaX/Resources/tr.lproj/InfoPlist.strings; sourceTree = SOURCE_ROOT; };
+		F1934FD82E0E3080A16C6CAC /* UstaX/Resources/Icons/IconIvory@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UstaX/Resources/Icons/IconIvory@2x.png"; sourceTree = SOURCE_ROOT; };
+		FD5277972FBBA12250E04B5B /* UstaX/Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = UstaX/Assets.xcassets; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2002E5C43A61715491C7A45B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C5597E7F74807B316B79E686 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0A3E27B8CA818264D75C8D81 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				81F31879437340D5CD6ED968 /* UstaX.app */,
+				64321F40F98F9F79FEC83C37 /* UstaXTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0D6E4079E36703EBD37C0072 = {
+			isa = PBXGroup;
+			children = (
+				81E18E8EFF15ED1A399ECC3D /* UstaX/AppState.swift */,
+				780E384C6F11C733FDF23207 /* UstaX/Models/Models.swift */,
+				0BA43F2A097CC6B8BFC1F849 /* UstaX/Models/RecordCatalog.swift */,
+				40BFF5D82169067C2BFF9AE3 /* UstaX/Networking/APIClient.swift */,
+				DE956F8BA1B4233C94458C7E /* UstaX/Networking/Keychain.swift */,
+				0A52586786E3CEAB2C7383EF /* UstaX/Networking/PhotoPipeline.swift */,
+				D703CED78CF5B23F9A4EEFB8 /* UstaX/UstaXApp.swift */,
+				B2C6F79754C5711CB1787454 /* UstaX/Views/Components.swift */,
+				C2497F5FE86BDBC4AC4FDCB3 /* UstaX/Views/Forms.swift */,
+				8A3D77F09EE562E318E26A8F /* UstaX/Views/PhotosView.swift */,
+				BE283FE59EA920B4F1D72DA1 /* UstaX/Views/RecordDetailView.swift */,
+				AE113CDE62CEB3963850EE2E /* UstaX/Views/RecordsView.swift */,
+				9882C385B799F18EF7740A78 /* UstaX/Views/RootView.swift */,
+				68172F707C1DF0B85DC32500 /* UstaX/Views/TeamView.swift */,
+				9FD6D4ED3D9CC2121A6499A0 /* UstaX/Views/TrackingView.swift */,
+				4FD29D446A0932DE55D04A1B /* UstaXTests/UstaXTests.swift */,
+				32BA4602071C333910C7B852 /* UstaX/Resources/Translations.json */,
+				BC4864244FA1B0337B72065B /* UstaX/Resources/LaunchScreen.storyboard */,
+				FD5277972FBBA12250E04B5B /* UstaX/Assets.xcassets */,
+				1B37F8EF9C74B52E73A1BEC1 /* UstaX/Resources/Icons/IconIvory83.5@2x~ipad.png */,
+				F1934FD82E0E3080A16C6CAC /* UstaX/Resources/Icons/IconIvory@2x.png */,
+				CCBDA3A0A59376312E31D730 /* UstaX/Resources/Icons/IconIvory@2x~ipad.png */,
+				7F38DFBCCCBCD1AF8A399BE8 /* UstaX/Resources/Icons/IconIvory@3x.png */,
+				5175AE2F06C643BEB2F0105C /* UstaX/Resources/Icons/IconIvory~ipad.png */,
+				23F81E81D2C47F341A22C8DF /* UstaX/Resources/Icons/IconTeal83.5@2x~ipad.png */,
+				A297C3F7342A6FD41DC0C757 /* UstaX/Resources/Icons/IconTeal@2x.png */,
+				6BA3D59109E3F39A0A9186BA /* UstaX/Resources/Icons/IconTeal@2x~ipad.png */,
+				C442264AC5839CBE5EA41EAE /* UstaX/Resources/Icons/IconTeal@3x.png */,
+				D850E60CAB32FEBA932402A2 /* UstaX/Resources/Icons/IconTeal~ipad.png */,
+				E45F3B2BF6B6EC13615332E2 /* InfoPlist.strings */,
+				0A3E27B8CA818264D75C8D81 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5A31B17C37FF20271C73A96F /* UstaX */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C24FFEE6319B062E75699F02 /* Build configuration list for PBXNativeTarget "UstaX" */;
+			buildPhases = (
+				C7DEC6FCCD74FC72557EBA8A /* Sources */,
+				2002E5C43A61715491C7A45B /* Frameworks */,
+				88EAC1297EFC578EA1E87A58 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = UstaX;
+			productName = UstaX;
+			productReference = 81F31879437340D5CD6ED968 /* UstaX.app */;
+			productType = "com.apple.product-type.application";
+		};
+		709B0C39F24A388349BE5BEE /* UstaXTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0438849E837DDE78A6F6E106 /* Build configuration list for PBXNativeTarget "UstaXTests" */;
+			buildPhases = (
+				38ADD6A8C5D64C981CD0BCDB /* Sources */,
+				C5597E7F74807B316B79E686 /* Frameworks */,
+				B2833816C5EC92EFCF084205 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8A772DF779B74C618A65920B /* PBXTargetDependency */,
+			);
+			name = UstaXTests;
+			productName = UstaXTests;
+			productReference = 64321F40F98F9F79FEC83C37 /* UstaXTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		244210E48437B6556980A702 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					5A31B17C37FF20271C73A96F = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					709B0C39F24A388349BE5BEE = {
+						CreatedOnToolsVersion = 14.2;
+						TestTargetID = 5A31B17C37FF20271C73A96F;
+					};
+				};
+			};
+			buildConfigurationList = 821C39C22847DEDBBA29010E /* Build configuration list for PBXProject "UstaX" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = tr;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				tr,
+				en,
+				de,
+				Base,
+			);
+			mainGroup = 0D6E4079E36703EBD37C0072;
+			productRefGroup = 0A3E27B8CA818264D75C8D81 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5A31B17C37FF20271C73A96F /* UstaX */,
+				709B0C39F24A388349BE5BEE /* UstaXTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		88EAC1297EFC578EA1E87A58 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9C720C639A78AF4B2CB026CB /* UstaX/Resources/Translations.json in Resources */,
+				9ACD71514767EB90FB05DE62 /* UstaX/Resources/LaunchScreen.storyboard in Resources */,
+				D65563464A4FF30025AE7746 /* UstaX/Assets.xcassets in Resources */,
+				702E613A9B2E15F833F704CF /* UstaX/Resources/Icons/IconIvory83.5@2x~ipad.png in Resources */,
+				1C389A0DABC8BF900A1F09BF /* UstaX/Resources/Icons/IconIvory@2x.png in Resources */,
+				D0E24CB95BAD1783F487A9C3 /* UstaX/Resources/Icons/IconIvory@2x~ipad.png in Resources */,
+				AB5E036EB581BF5B9041EF40 /* UstaX/Resources/Icons/IconIvory@3x.png in Resources */,
+				83BE744E75C4649C9F7BF0BA /* UstaX/Resources/Icons/IconIvory~ipad.png in Resources */,
+				153D2949D8271EF0AA48E278 /* UstaX/Resources/Icons/IconTeal83.5@2x~ipad.png in Resources */,
+				52CE8DAB3FBCFD5607A1BA0F /* UstaX/Resources/Icons/IconTeal@2x.png in Resources */,
+				30F8CC0BBFF069E566988EEE /* UstaX/Resources/Icons/IconTeal@2x~ipad.png in Resources */,
+				B1678E75CEC1FDCCD5E79E06 /* UstaX/Resources/Icons/IconTeal@3x.png in Resources */,
+				3CE8906CBC0A9BECD5351695 /* UstaX/Resources/Icons/IconTeal~ipad.png in Resources */,
+				E5CE5C68757A1F1DBDBE3552 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B2833816C5EC92EFCF084205 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		38ADD6A8C5D64C981CD0BCDB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FF8EF5D9BF5D9BA101D8440D /* UstaXTests/UstaXTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C7DEC6FCCD74FC72557EBA8A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A54C8D8AEB0E4F732CA2B349 /* UstaX/AppState.swift in Sources */,
+				F4155B8C665868D0A5B6CFEC /* UstaX/Models/Models.swift in Sources */,
+				9D2F3A221B41A6987EEBAB12 /* UstaX/Models/RecordCatalog.swift in Sources */,
+				52B0F58B51D32ED9BCE34AB0 /* UstaX/Networking/APIClient.swift in Sources */,
+				D76273405076454CD7067E6B /* UstaX/Networking/Keychain.swift in Sources */,
+				4F2211F289938EB37A3D67BC /* UstaX/Networking/PhotoPipeline.swift in Sources */,
+				0E873A34BDAD1A8EA63CE6D9 /* UstaX/UstaXApp.swift in Sources */,
+				253E9E34D75EC96A1C31FCD6 /* UstaX/Views/Components.swift in Sources */,
+				F2A72E9D927AEA986872446C /* UstaX/Views/Forms.swift in Sources */,
+				073A58335ED4E8749FAAD972 /* UstaX/Views/PhotosView.swift in Sources */,
+				ED2731BDD5D28D7E49779826 /* UstaX/Views/RecordDetailView.swift in Sources */,
+				EE6ABC1D621D4A1021D58462 /* UstaX/Views/RecordsView.swift in Sources */,
+				08C4B2402F45675FE8D913B2 /* UstaX/Views/RootView.swift in Sources */,
+				277F957A744A1584BF24543A /* UstaX/Views/TeamView.swift in Sources */,
+				0AD34385279732CFBBC4DB5B /* UstaX/Views/TrackingView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8A772DF779B74C618A65920B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5A31B17C37FF20271C73A96F /* UstaX */;
+			targetProxy = 5CC0D122D46868950F270256 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		E45F3B2BF6B6EC13615332E2 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				ECBEE5FE9C88E6A2659C1974 /* tr */,
+				672CA84EF526028E60E2E2C7 /* en */,
+				3D6F5CEEDAF0BE58FE294306 /* de */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		07CA1E69F6068DEA30A4DA6B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		1E2E67F111F111E446D58E6C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 936UGY992F;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = UstaX/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = UstaX;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.miracsoft.ustax;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		2B23A31EEC75B029432F2445 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		8617DF137A9B97CF1A31A959 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 936UGY992F;
+				ENABLE_TESTABILITY = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GENERATE_INFOPLIST_FILE = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.miracsoft.ustax.tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UstaX.app/UstaX";
+				TEST_TARGET_NAME = UstaX;
+			};
+			name = Debug;
+		};
+		90E60CB84C8CDC20C93E6F85 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 936UGY992F;
+				GENERATE_INFOPLIST_FILE = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.miracsoft.ustax.tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UstaX.app/UstaX";
+				TEST_TARGET_NAME = UstaX;
+			};
+			name = Release;
+		};
+		AA9B1D3BE1353EBD76471D11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 936UGY992F;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = UstaX/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = UstaX;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.miracsoft.ustax;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0438849E837DDE78A6F6E106 /* Build configuration list for PBXNativeTarget "UstaXTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8617DF137A9B97CF1A31A959 /* Debug */,
+				90E60CB84C8CDC20C93E6F85 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		821C39C22847DEDBBA29010E /* Build configuration list for PBXProject "UstaX" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B23A31EEC75B029432F2445 /* Debug */,
+				07CA1E69F6068DEA30A4DA6B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C24FFEE6319B062E75699F02 /* Build configuration list for PBXNativeTarget "UstaX" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AA9B1D3BE1353EBD76471D11 /* Debug */,
+				1E2E67F111F111E446D58E6C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 244210E48437B6556980A702 /* Project object */;
+}
