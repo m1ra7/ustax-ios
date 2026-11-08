@@ -1,12 +1,8 @@
 UstaX, teknik servisler için servis ve tamir takip sistemidir. Mirac Suicmez tarafından geliştirilmiştir.
 
-Son güncelleme: HAKKINDA-VE-IOS-UYUMU.md
-
 # UstaX iOS
 
-Native SwiftUI teknik servis uygulaması. Xcode **14.2**, Swift **5.7**, iOS/iPadOS **16.0+** hedeflenir. Harici Swift paketi veya CocoaPods kurulumu gerektirmez.
-
-`UstaX.xcodeproj` dosyasını açın. İlk çalıştırma için `KURULUM.md` dosyasını izleyin.
+Native SwiftUI teknik servis uygulaması. Xcode **14.2**, Swift **5.7**, iOS/iPadOS **16.0+** hedeflenir.
 
 ## Ekranlar
 
